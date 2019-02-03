@@ -1,0 +1,497 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201306 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.stostankov.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1994                
+POS_TIME 2667                
+POS_VISITOR 7454                
+POS_DAY 10118               
+POS_DOMAIN 3450                
+POS_LOGIN 3685                
+POS_ROBOT 3840                
+POS_WORMS 4361                
+POS_EMAILSENDER 4492                
+POS_EMAILRECEIVER 4635                
+POS_SESSION 10825               
+POS_SIDER 11034               
+POS_FILETYPES 4770                
+POS_DOWNLOADS 5036                
+POS_OS 5155                
+POS_BROWSER 5283                
+POS_SCREENSIZE 5670                
+POS_UNKNOWNREFERER 5744                
+POS_UNKNOWNREFERERBROWSER 5881                
+POS_ORIGIN 6013                
+POS_SEREFERRALS 6154                
+POS_PAGEREFS 6298                
+POS_SEARCHWORDS 6512                
+POS_KEYWORDS 6664                
+POS_MISC 2329                
+POS_ERRORS 6723                
+POS_CLUSTER 3541                
+POS_SIDER_404 6831                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130701044200 1 0 9753617663471
+FirstTime 20130601100051
+LastTime 20130630220357
+LastUpdate 20130701050242 1 0 0 0 0
+TotalVisits 101                 
+TotalUnique 62                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 62                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 343 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 66 312 2559280 13 16 219
+1 8 26 156396 8 42 198091
+2 7 7 117378 10 17 511
+3 3 3 27824 8 14 47139
+4 4 4 44833 0 3 219
+5 3 4 39660 3 6 806
+6 1 1 23512 1 2 73
+7 14 15 207667 13 23 2025
+8 43 216 1960730 14 34 1565
+9 35 108 1330976 6 13 488
+10 284 1057 12649409 75 166 21151
+11 306 1623 16091553 53 101 584
+12 194 1038 9592667 31 47 438
+13 231 979 12650296 53 66 12601
+14 146 893 5707655 21 33 438
+15 134 777 8078254 17 58 365
+16 117 668 7139678 9 48 0
+17 121 806 4331939 12 48 73
+18 38 636 2385725 7 14 292
+19 20 94 1339799 2 10 11223
+20 36 295 3443405 5 34 100081
+21 60 329 4281331 14 36 59154
+22 235 1143 10246744 41 58 55677
+23 61 372 3326937 30 39 12354
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 2167 11406 107733648
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+wordpress 112 0 20130630183439 0
+unknown 36 2628 20130630215946 36
+msnbot 18 1314 20130630183438 18
+googlebot 16 1168 20130627101935 16
+yandex 16 1168 20130629015003 16
+java\/[0-9] 13 11848 20130603091859 0
+no_user_agent 3 20786 20130613011122 1
+surveybot 2 146 20130619144933 2
+bot[\s_+:,\.\;\/\\-] 2 23334 20130616075826 1
+crawl 2 20786 20130612102830 1
+python 1 23123 20130621033139 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 2288 2328511 0 0
+png 1016 796138 0 0
+htm 4 2388 0 0
+php 1056 55929944 0 0
+html 1107 20084934 0 0
+js 2420 6792216 0 0
+jpg 1681 17681580 0 0
+jpeg 99 1774238 0 0
+xls 4 860160 0 0
+gif 1731 1483539 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/robots.txt 91 0 6643
+/wp-content/uploads/2013/06/Price.xls 4 0 860160
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 9
+winlong 62
+winxp 1495
+winnt 3
+winvista 62
+linux 6
+win7 9558
+macosx 217
+winme 1
+Unknown 2
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 23
+msie6.0 211
+chrome27.0.1453.94 34
+firefox21.0 9328
+firefox18.0 2
+safari6.0 38
+chrome27.0.1453.110 124
+chrome9.01041.842 1
+opera9.80 808
+msie8.0 67
+mozilla 3
+firefox1.0 1
+safari5.0.4 1
+firefox22.0 141
+msie7.0 65
+firefox14.0.1 2
+msie10.0 124
+firefox6.0 1
+opera9.64 2
+msie9.0 113
+chrome27.0.1453.116 158
+Unknown 2
+safari 179
+firefox11.0 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Google_Analytics_Snippet_Validator 20130625085128
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Google_Analytics_Snippet_Validator 20130625085128
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 157 252
+From1 0 0
+From2 0 0
+From3 2 2
+From4 2008 11152
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://e.mail.ru/cgi-bin/link 1 1
+http://yandex.by/yandsearch 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 239 0
+404 38 418116
+301 87 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 5
+/part/zapasnye-chasti-dlya-stanka-16a20/ 1 http://stostankov.com/parts/vse/
+/apple-touch-icon-precomposed.png 34 -
+/comments/feed/ 1 -
+/wp-content/uploads/2013/05/black_180x150.gif 1 http://stostankov.com/novosti/section-1-10-32-of-de-finibus-bonorum-et-malorum-written-by-cicero-in-45-bc/
+/catalog/frezernie/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 62
+178.120.160.141 405 2192 16948580 20130614175755
+178.121.55.190 290 910 12198636 20130627152348
+87.252.236.106 282 1315 13615146 20130630002309
+178.121.6.151 144 623 4973032 20130613142419
+87.252.236.62 127 635 7665769 20130626160320
+178.120.7.84 108 409 5445112 20130607140200
+178.120.208.45 95 689 4576614 20130628161824
+178.121.150.45 84 568 5768397 20130618122414
+134.17.8.84 76 405 3123982 20130623232404
+134.17.8.69 62 252 2552265 20130623221022
+178.120.221.140 6 67 796675 20130602161148
+178.120.108.107 22 112 1186236 20130603131552
+178.121.67.117 8 34 355155 20130625164412
+164.177.215.124 3 45 1025843 20130626102318
+84.201.235.98 18 112 1462959 20130624165755
+134.17.9.112 19 136 468291 20130620004643
+93.125.84.242 23 316 4147699 20130612173414
+93.125.37.49 2 38 759344 20130625130923
+93.84.84.176 42 78 1123125 20130607104306
+96.227.124.38 1 1 24445 20130623185219
+178.120.8.128 2 8 36603 20130624122231
+37.215.210.130 23 141 1197361 20130630220357
+38.99.82.252 3 4 32942 20130603111301
+46.53.195.2 8 72 925241 20130603210806
+178.120.128.63 5 14 150072 20130626120326
+134.17.8.78 3 15 47284 20130624215728
+74.52.245.146 1 1 23539 20130625081410
+69.164.111.198 1 3 44624 20130615215517
+217.69.133.186 1 1 24295 20130627082546
+134.17.8.87 11 82 611000 20130614232712
+220.181.158.160 1 1 23512 20130630123738
+184.106.154.125 2 2 20703 20130601100053
+66.249.83.20 2 2 47078 20130625085128
+134.17.8.62 12 18 79083 20130617195543
+217.69.135.241 1 1 20703 20130602073438
+5.135.125.177 2 2 32602 20130612022046
+178.121.90.219 37 381 823507 20130621165236
+117.29.131.16 1 1 23512 20130630060543
+198.27.82.147 1 1 23261 20130616205443
+37.17.112.122 2 35 46308 20130614204542
+37.45.189.154 9 51 904606 20130625154217
+38.99.82.217 25 27 303362 20130603132230
+91.187.6.84 4 46 1043581 20130625210908
+37.17.115.188 1 37 23689 20130616221719
+69.58.178.59 2 2 46246 20130621024917
+123.125.161.191 1 1 23512 20130630111610
+152.72.130.32 8 64 889356 20130627162947
+178.121.43.62 4 57 818142 20130625164058
+134.17.8.166 9 62 924379 20130625210816
+95.46.212.33 5 60 1066693 20130625200027
+134.17.8.112 8 148 977019 20130619183738
+37.214.70.160 12 62 950156 20130619221934
+37.17.113.231 1 37 739917 20130614203912
+198.27.82.142 1 1 23261 20130616072004
+38.99.82.248 15 16 211746 20130603081237
+178.121.135.253 36 165 1475196 20130612173121
+178.121.49.193 7 62 533893 20130601150803
+178.126.115.215 3 43 804688 20130625230436
+178.120.204.235 1 28 368197 20130603214230
+178.120.53.36 37 213 1624559 20130617155629
+178.120.230.241 29 487 1384261 20130615184519
+38.99.82.239 13 15 146654 20130603154954
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20130601 9 64 554596 2
+20130602 12 73 888003 5
+20130603 84 325 3833337 14
+20130605 1 28 368197 1
+20130606 1 21 212501 1
+20130607 155 545 7060724 3
+20130611 8 87 1520715 2
+20130612 71 323 3205903 7
+20130613 144 623 4973032 2
+20130614 455 2477 20423894 6
+20130615 169 1150 8150812 3
+20130616 36 189 1394821 4
+20130617 50 232 1707477 4
+20130618 128 838 7740837 3
+20130619 30 262 2844931 3
+20130620 26 173 1301573 2
+20130621 39 383 869753 3
+20130623 147 722 6227474 4
+20130624 24 136 1565865 4
+20130625 106 682 10151598 12
+20130626 28 161 3037931 4
+20130627 299 975 13112287 4
+20130628 95 689 4576614 2
+20130629 23 103 724319 1
+20130630 27 145 1286454 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 16
+5mn-15mn 14
+2mn-5mn 5
+0s-30s 40
+15mn-30mn 7
+30s-2mn 12
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 118
+/wp-admin/admin-ajax.php 250 1342060 2 3
+/ 224 4985927 61 41
+/wp-admin/edit-tags.php 202 8870993 2 1
+/wp-admin/post.php 175 20283808 1 2
+/wp-admin/edit.php 108 4327992 4 2
+/parts/vse/ 105 1703486 2 5
+/catalog/all/ 104 1884954 2 12
+/wp-admin/load-scripts.php 59 2167522 0 2
+/wp-admin/upload.php 54 3685235 1 0
+/uslugi/remont-i-obsluzhivanie/ 49 591791 1 0
+/wp-admin/media-new.php 17 484956 0 0
+/catalog/rezbonareznie/ 1 18377 0 0
+/part/zapchasti-tokarnie/ 14 219110 0 0
+/wp-admin/post-new.php 20 2584338 0 0
+/wp-admin/load-styles.php 14 363860 0 0
+/catalog/sverlilnie/ 2 34842 0 0
+/catalog/kombinirovannoe/ 2 29872 0 0
+/wp-admin/index.php 4 89014 1 0
+/parts/1k625-1k625d-1k625dg/ 8 127570 1 0
+/wp-admin/users.php 2 56382 0 0
+/catalog/shlifovalnie/ 1 17567 0 0
+/part/zapchasti-frezernie/ 5 79480 0 0
+/kontakty/ 40 457559 1 0
+/wp-admin/async-upload.php 35 7398 0 0
+/feed/ 8 30520 1 2
+/parts/16k25-mk6056-mk6046/ 2 31192 0 0
+/part/zapasnye-chasti-k-stankam-1k625-1k625d-1k625dg/ 10 233320 0 2
+/o-kompanii/nashi-dostizheniya-i-preimushhestva/ 24 305721 0 1
+/parts/zapasnye-chasti-k-frezernym-stankam/ 1 16755 0 0
+/product/radialno-sverlilnye-universalnye-smtcl/ 11 209175 0 0
+/catalog/frezernoe/ 3 46335 0 0
+/wp-admin/ 6 127404 2 0
+/parts/dip-400-1m64-1a64/ 2 32106 0 0
+/parts/1k62d/ 1 15865 0 0
+/catalog/tokarnoe-oborudovanie/ 7 115234 0 0
+/part/neque-porro-quisquam-est/ 5 76395 0 0
+/catalog/kombinirovannoe-pozvolyayushhee-sochetat-gibku-rezku-i-valcovku-metallov/ 4 65308 0 0
+/o-kompanii/sertifikaty-i-licenzii/attachment/black_336x280/ 1 11406 0 0
+/o-kompanii/sertifikaty-i-licenzii/attachment/white_336x280-3/ 1 11412 0 1
+/product/lorem-ipsum-is-simply-dummy-text/ 1 18289 1 0
+/product/cvcbvcb/ 1 18895 0 0
+/wp-admin/plugins.php 6 235508 1 0
+/catalog/mnogoshpindelnyj-tokarnyj-avtomat/ 6 93914 0 0
+/wp-admin/widgets.php 15 1107129 1 1
+/catalog/lobotokarnyj-stanok/ 6 112604 0 0
+/parts/16a20/ 8 136309 0 0
+/parts/1h65/ 1 15858 0 0
+/parts/16k20-1k62-1k62d-1m63/ 20 331424 0 3
+/wp-admin/nav-menus.php 48 8507247 1 1
+/parts/frezernoe/ 8 108997 0 1
+/product/h-rackham/ 4 84741 0 0
+/o-kompanii/ 39 500391 0 4
+/parts/ts-30-ts-75-ts-85/ 5 78076 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 3 347154 0 0
+/o-kompanii/sertifikaty-i-licenzii/attachment/svidetelstvo/ 4 46782 0 0
+/uslugi/ 47 608054 2 3
+/parts/1k62/ 1 15860 0 0
+/o-kompanii/sertifikaty-i-licenzii/attachment/grey_336x280/ 1 11397 0 0
+/novosti/lorem-ipsum-is-simply-dummy-text/ 1 11748 1 0
+/catalog/gorizontalno-rastochnie/ 4 71001 1 0
+/catalog/zubo-rezbo-obrabatyvayushhee-oborudovanie/ 1 15904 0 0
+/parts/mod-16k20-1k62-1k62d-1m63/ 8 147586 1 1
+/wp-login.php 11 38834 2 0
+/catalog/raznoe/ 3 46298 0 0
+/parts/tokarnoe/ 27 383199 0 0
+/part/babka-shpindelnaya-v-sbore/ 1 17007 0 0
+/catalog/avtomat-prodolnogo-tocheniya/ 6 93740 0 0
+/novosti/richard-mcclintock-a-latin-professor/ 3 37791 0 0
+/parts/sverlilnoe-i-rastochnoe/ 7 91351 1 0
+/catalog/oborudovanie-bu/ 1 15758 0 0
+/parts/dip-300-163-rt2128-rt2560/ 3 46926 0 0
+/catalog/tokarnoe/ 18 331268 0 1
+/catalog/tokarno-vintoreznie-cpu/ 7 122366 0 0
+/product/the-point-of-using-lorem-ipsum/ 1 17724 0 0
+/novosti/feed/ 7 26915 3 1
+/part/zapasnye-chasti-k-stanku-1k62/ 7 151565 1 1
+/parts/dip-500-165-1m65-rt911f1/ 2 31300 0 0
+/part/the-point-of-using-lorem-ipsum/ 1 15411 0 0
+/part/zapasnye-chasti-dlya-stanka-modeli-16a20/ 3 65379 1 0
+/part/zapasnye-chasti-k-stankam-16k20-1k62-1k62d-1m63/ 48 1992482 1 3
+/catalog/rezbonareznoe/ 3 44363 0 0
+/part/zapasnye-chasti-k-stanku-16k20/ 22 490567 0 0
+/catalog/zuboobrabativauchie/ 2 36798 0 1
+/parts/zapasnye-chasti-k-sverlilnym-stankam/ 1 16764 0 0
+/part/babka-zadnyaya-v-sbore/ 1 16955 0 0
+/parts/16k20/ 3 44739 0 0
+/parts/kombinirovannoe-pozvolyayushhee-sochetat-gibku-rezku-i-valcovku-metallov/ 2 26144 0 0
+/wp-admin/plugin-install.php 9 414717 0 1
+/part/supportnaya-gruppa-v-sbore/ 1 16985 0 0
+/catalog/tokarno-revolvernyj-stanok/ 3 46860 0 1
+/catalog/sverlilnoe-i-rastochnoe-oborudovanie/ 5 84090 0 0
+/parts/mod-16k25-mk6056-mk6046/ 3 51747 0 0
+/parts/1i611/ 1 15863 0 0
+/catalog/strogalnoe-dolbyozhnoe/ 3 44462 0 0
+/catalog/tokarno-vintoreznyj-stanok/ 5 78083 0 0
+/catalog/razreznoe/ 2 32812 0 0
+/wp-admin/profile.php 8 210781 0 1
+/parts/6r12-6r13-6r82-6r83/ 1 15596 0 0
+/catalog/frezernie/ 3 53970 1 0
+/part/zapasnye-chasti-dlya-stanka-16a20/ 5 108968 0 0
+/parts/zapasnye-chasti-k-tokarnym-stankam/ 6 115686 0 1
+/parts/2n125-2n135-2n150-2a135/ 1 15608 0 0
+/wp-admin/update.php 1 17584 0 0
+/catalog/tokarno-karuselnye-stanki/ 10 167160 0 0
+/parts/mod-2a554-2n55-2m55/ 1 16743 0 0
+/catalog/sverlilnoe-i-rastochnoe/ 11 174681 0 0
+/catalog/frezernoe-oborudovanie/ 3 47447 0 0
+/catalog/tokarno-vintoreznie/ 12 209250 0 1
+/novosti/section-1-10-32-of-de-finibus-bonorum-et-malorum-written-by-cicero-in-45-bc/ 5 61987 0 0
+/catalog/shlifovalnoe/ 4 64708 0 0
+/parts/2a554-2n55-2m55/ 1 15580 0 0
+/catalog/tokarno-frezernyj-obrabatyvayushhij-centr/ 3 47031 0 0
+/product/tokarnye-stanki-smtcl/ 5 92063 0 0
+/part/zapasnye-chasti-k-stanku-16k25/ 2 97010 0 0
+/o-kompanii/sertifikaty-i-licenzii/ 8 103201 0 0
+/wp-admin/options-general.php 15 787432 0 0
+/wp-includes/js/tinymce/plugins/paste/pasteword.htm 4 2388 0 0
+/novosti/ 17 238020 0 1
+END_SIDER

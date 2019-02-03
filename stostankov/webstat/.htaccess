@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/stostankov.com/webstat"
+AuthUserFile /var/www/belpereplet1/data/etc/2058778.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

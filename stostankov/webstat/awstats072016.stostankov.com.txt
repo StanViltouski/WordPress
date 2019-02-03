@@ -1,0 +1,1813 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201607 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.stostankov.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1994                
+POS_TIME 2667                
+POS_VISITOR 43140               
+POS_DAY 72025               
+POS_DOMAIN 3683                
+POS_LOGIN 3919                
+POS_ROBOT 4074                
+POS_WORMS 4960                
+POS_EMAILSENDER 5091                
+POS_EMAILRECEIVER 5234                
+POS_SESSION 73008               
+POS_SIDER 73221               
+POS_FILETYPES 5369                
+POS_DOWNLOADS 5640                
+POS_OS 6683                
+POS_BROWSER 6918                
+POS_SCREENSIZE 9524                
+POS_UNKNOWNREFERER 9598                
+POS_UNKNOWNREFERERBROWSER 10072               
+POS_ORIGIN 10213               
+POS_SEREFERRALS 10365               
+POS_PAGEREFS 10571               
+POS_SEARCHWORDS 16825               
+POS_KEYWORDS 18486               
+POS_MISC 2329                
+POS_ERRORS 19783               
+POS_CLUSTER 3775                
+POS_SIDER_404 19956               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160801000103 1 0 7259095396535
+FirstTime 20160701000122
+LastTime 20160731225630
+LastUpdate 20160801000123 1 0 0 0 0
+TotalVisits 865                 
+TotalUnique 538                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 817                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 292 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1776 1967 5405156 70 164 3974189
+1 1836 1964 4795441 137 202 3422506
+2 1743 1837 2969064 142 181 4041919
+3 1760 1845 2950417 666 814 37750395
+4 1631 1738 3061012 1085 1196 66794548
+5 1699 1946 5918537 80 129 3267063
+6 1690 2088 9352851 1956 2008 123457916
+7 1674 1930 5977019 1506 1550 94032910
+8 1708 2233 11817250 189 418 11001712
+9 1658 2262 14428524 257 359 12038004
+10 1699 2986 36485319 238 361 5946435
+11 1677 2345 17142759 166 245 5186949
+12 1752 2561 22825169 134 313 4678525
+13 1654 2586 21077904 129 244 3919404
+14 1918 2734 19976897 125 251 4917560
+15 1844 2492 16083892 81 150 3943710
+16 1888 2521 14950400 167 269 6699728
+17 1835 2264 13484977 114 207 7105545
+18 1870 2548 28269002 154 249 6180616
+19 1788 2049 6737173 1628 1698 101775795
+20 1802 2093 7001497 64 115 2821328
+21 1712 2100 8894279 129 248 5020301
+22 1772 2127 9336019 171 256 3573391
+23 26 26 9620 1 1 16724
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 40412 51242 282117710
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 20
+no_user_agent 6739 434423957 20160731055614 0
+yandex 1019 23266031 20160731223103 73
+bot[\s_+:,\.\;\/\\-] 734 17378237 20160731130406 67
+mj12bot 557 8120718 20160731163200 194
+googlebot 461 14590716 20160731210420 58
+wordpress 119 0 20160731221657 0
+robot 116 4196568 20160731172116 11
+crawl 88 2091529 20160730001456 4
+archive\.org_bot 74 2116517 20160704194920 16
+baiduspider 62 1422778 20160731134133 0
+powermarks 3 156231 20160730043025 0
+exabot 9 127517 20160726142014 4
+mail\.ru 61 858867 20160727163221 27
+unknown 33 825 20160729162256 33
+slurp 20 274976 20160723205025 9
+python 1 27817 20160714020859 0
+surveybot 4 55684 20160717011512 2
+favicon 5 139085 20160731210741 0
+msiecrawler 14 396804 20160718091554 0
+netcraft 1 27817 20160715021757 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 1079 9398965 0 0
+png 867 7541920 0 0
+pdf 7 19106454 0 0
+txt 1 19929 0 0
+php 38822 18410534 0 0
+html 1590 49308381 0 0
+jpg 4061 119609517 0 0
+js 1796 52536141 0 0
+gif 2992 2680205 0 0
+xls 27 3505664 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 11
+/robots.txt 495 0 12375
+/wp-content/uploads/2014/01/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82-%D1%82%D1%80%D0%B5%D0%B1%D1%83%D0%B5%D0%BC%D0%BE%D0%B3%D0%BE-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%8F-%D0%B3%D0%B8%D0%B1%D0%BA%D0%B8.xls 18 0 1281024
+/wp-content/uploads/2013/06/Price.xls 18 0 3440640
+/wp-content/uploads/2014/01/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0-%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%D0%B0.pdf 8 0 1302128
+/wp-content/uploads/2013/12/%D0%A1atalogue-Plasmet-2013.pdf 5 20 21564578
+/sitemap.xml.gz 4 0 5972
+/wp-content/uploads/2014/07/GOST__17122-85.pdf 3 0 1119690
+/wp-content/uploads/2016/05/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0-%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%B81.pdf 3 0 1524660
+/wp-content/uploads/2015/03/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0-%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%B8.pdf 3 0 964398
+/license.txt 1 0 19929
+/wp-content/uploads/2014/07/GOST-P-53923-2010.pdf 1 0 472093
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 18
+linuxandroid 697
+winlong 38761
+winxp 2639
+win2000 70
+winvista 1115
+win95 20
+winunknown 33
+j2me 1
+win2003 35
+unix 13
+winnt 1081
+win98 35
+linux 155
+win7 6252
+win16 6
+macosx 280
+winme 10
+Unknown 59
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 143
+firefox28.0 6
+chrome50.0.2661.18 29
+firefox14.0 1
+chrome50.0.2661.89 56
+webcapture 3
+firefox3.6 2
+chrome34.0.1847.137 3
+firefox44.0 11
+chrome15.0.872.0 1
+chrome31.0.1650.57 545
+chrome31.0.1650.63 30
+chrome51.31.2704.63 29
+msie11 1
+chrome24.0.1312.71 39
+msie8.0 515
+chrome53.0.2783.2 29
+chrome11.0.696.34 27
+msie7.0 38796
+chrome27.0.1453 27
+chrome41.0.2272.89 22
+chrome42.0.2311.152 1
+chrome31.0.1650.59 1
+firefox40.0 2
+chrome13.0.782.24 1
+opera9.01 4
+chrome12.0.704.0 1
+firefox38.0 65
+chrome40.0.2214.114 2
+chrome47.0.2526.73 1
+chrome51.0.2704.103 3077
+chrome35.0.1916.114 5
+netscape0.6 2
+chrome36.0.1985.143 1
+firefox25.0 106
+firefox14.0.1 12
+chrome44.0.2403.89 1
+chrome46.0.2490.86 2
+safari 2
+safari7.0 34
+chrome34.0.1847.76 6
+firefox5.0 40
+firefox4.0.1 1
+chrome38.0.2125.104 1
+android 166
+firefox7.0 21
+chrome48.0.2564.116 1
+chrome28.0.1500.95 91
+firefox24.0 6
+chrome40.0.2214.117 1
+opera9.80 589
+chrome33.0.0.0 7
+chrome46.0.2490.76 29
+netscape4.76 3
+chrome32.0.1700.102 2
+chrome43.0.2357.81 1
+netscape0.91 2
+chrome51.0.2704.84 145
+msie5.0 12
+msie9.0 143
+firefox1.5 1
+chrome14.0.810.0 1
+safari9.1 29
+chrome35.0.1916.141 20
+firefox3.6.16 1
+msie5.5 19
+firefox30.0 30
+chrome52.0.2743.82 126
+chrome43.0.2357.172 1
+firefox39.0 32
+chrome51.0.2704.106 890
+firefox38.9 54
+chrome43.0.2357.134 1
+msie6.0 508
+chrome44.0.2403.125 2
+chrome40.0.2214.115 2
+chrome49.0.2623.110 146
+chrome53.0.2782.9 20
+chrome28.0.1500.94 1
+chrome5.0.375.99 7
+msie4.01 14
+firefox18.0 3
+chrome7.0.517.44 1
+firefox34.0 1
+firefox3.6.15 1
+chrome51.0.2704.81 302
+chrome50.0.2661.94 21
+chrome24.0.1312.56 1
+netscape3.0 13
+firefox43.0 24
+chrome50.0.2661.102 524
+firefox23.0 22
+firefox40.1 1
+chrome37.0.2062.120 1
+firefox41.0 26
+chrome49.0.2623.112 875
+opera9.0 5
+netscape 1
+firefox42.0 24
+chrome34.0.1847.131 13
+chrome40.0.2214.109 1
+firefox21.0 4
+firefox29.0 10
+safari6.0 2
+chrome51.0.2704.63 1
+chrome49.0.2623.75 6
+firefox47.0 1092
+firefox45.0 61
+mozilla 413
+chrome47.0.2526.106 41
+chrome44.0.2403.157 1
+chrome32.0.1700.76 4
+chrome46.0.2486.0 220
+chrome48.0.2564.103 2
+firefox19.0 2
+firefox8.0.1 34
+firefox35.0 22
+chrome37.0.2062.124 2
+chrome47.5.2526.111 36
+opera9.00 6
+chrome42.0.2311.111 26
+firefox31.0 3
+chrome47.0.2526.111 29
+chrome45.0.2454.93 1
+msie2.0 5
+chrome51.24.2704.63 20
+safari8.0 33
+chrome33.0.1750.146 2
+Unknown 4
+chrome30.0.1599.101 36
+chrome47.0.2526.83 23
+chrome37.0.2062.94 28
+chrome30.0.0.0 8
+chrome9.0.597.107 1
+firefox3.5.6 1
+netscape4.61 13
+opera8.00 5
+chrome41.0.2272.118 1
+firefox46.0 62
+safari9.0 119
+firefox37.0 6
+chrome48.0.2564.109 1
+msie10.0 351
+safari5.1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+RookeeBot 20160713132832
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20160722013705
+Mozilla-1.1 20160722195507
+Mozilla/4.0_(compatible;) 20160728141625
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20160709100842
+Go-http-client/1.1 20160722135145
+Opera/9.80_(Android;_Opera_Mini/7.6.40234/37.8762;_U;_ru)_Presto/2.12.423_Version/12.16 20160725102452
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+RookeeBot 20160713132832
+Go-http-client/1.1 20160722135145
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 38934 39313
+From1 7 7
+From2 336 522
+From3 719 1447
+From4 416 9973
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 144 321
+search 3 3
+rambler 2 5
+bing 2 2
+yandex 185 191
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 174
+http://www.zahvat.ru 18 18
+http://xboxster.ru 16 16
+http://www.allmetalworking.ru 13 13
+http://xn-----8kcatubaocd1bneepefojs1h2e.xn--p1ai 12 12
+http://www.lenpipet.ru 11 11
+http://letolove.ru 11 11
+http://izoll.ru 10 10
+http://ingress-store.com 10 10
+http://penza.xrus.org 9 9
+http://videochat.mx 9 9
+http://stavropol.xrus.org 2 2
+http://steveovermars.nl 1 1
+http://kw21.org 6 6
+http://betonka.pro 6 6
+http://kinofak.net 5 5
+http://xn----7sbaphztdjeboffeiof6c.xn--p1ai 3 3
+http://narosty.com 6 6
+http://lostfilm-online.ru 2 2
+http://freenode.info 5 5
+http://hghltd.yandex.net/yandbtm 0 28
+http://runovschool.ua 3 3
+http://nimfa.pro 2 2
+http://orenburg-gsm.ru 3 3
+http://berlininsl.com 8 8
+http://www.bookmaker-bet.com 2 2
+http://www.ideoworld.org 1 1
+http://sexsaoy.com 2 2
+http://go.mail.ru/redir 1 1
+http://wallpapers-best.com 3 3
+http://surgut.xrus.org 3 3
+http://tiu.ru/p33132105-instrument-dlya-listogibov.html 0 32
+http://kupit-adenu.ru 6 6
+http://astrakhan.xrus.org 8 8
+http://vladimir.xrus.org 7 7
+http://khabarovsk.xrus.org 3 3
+http://kredit-pod-zalog-krasnodar.ru 2 2
+http://sevastopol.xrus.org 1 1
+http://xn-----7kceclhb4abre1b4a0ccl2fxch1a.xn--p1ai 6 6
+http://bryansk.xrus.org 2 2
+http://zaim-pod-zalog-krasnodar.ru 2 2
+http://specstankoservice.pulscen.by/goods/41768891-diskovyye_ili_kruglyye_nozhi 0 1
+http://xn-----6kccaibs5cb8afhjrfmix2n.xn--p1ai 6 6
+http://kirov.xrus.org 7 7
+http://www.beautifulife.ru/shopogolik/dc/gidravdicheskiy_press_s_chpu_dlya_gibki_metalla_weinbrenner 0 1
+http://videochat.tv.br 3 3
+http://www.voda.lv 3 3
+http://angarsk.xrus.org 2 2
+http://esk-sambist.ru 7 7
+http://irkutsk.xrus.org 7 7
+http://specstankoservice.pulscen.by/goods/41739609-shlifovalnyye_krugi_chashechnyye_tsilindricheskiye 0 2
+http://ryazan.xrus.org 8 8
+http://mail.ru 8 8
+http://kruzakivrazbor.ru 8 8
+http://ziesta.ru 5 5
+http://yalta.xrus.org 3 3
+http://kupitwindows.com/7/professional/ 3 3
+http://specstankoservice.pulscen.by/predl/binds 0 585
+http://tiu.ru/p76967761-puansony-dlya-listogibov 0 2
+http://www.styro.ru 6 6
+http://xn----7sbbahebfbcddeqjohba5bl3ajhliejfi4cfxf3a35a.xn--p1ai 5 5
+http://stostankov.belorussia.su 2 2
+http://remontinfo.by/service/specstankoservice/ 1 1
+http://go.mail.ru/search 3 3
+http://artphoto.name 4 4
+http://orenburg.xrus.org 6 6
+http://velobikestock.com 3 3
+http://pravoholding.ru 3 3
+http://linerdrilling.com 9 9
+http://syz.tiu.ru/p76967626-nozhi-gibochnye.html 0 2
+http://cheboksary.xrus.org 9 9
+http://wedding-salon.net 3 3
+http://yandex.by/clck/jsredir 7 7
+http://remontgruzovik.ru 5 5
+http://volt-fase.tumblr.com/post/130409701959/%D1%88%D0%B0%D0%B3-3-%D1%80%D0%B5%D0%B7%D0%BA%D0%B8-%D1%88%D0%BF%D0%BE%D0%BD%D0%B0 0 6
+http://mylida.org 6 6
+http://pornogig.com 3 3
+http://ivanovo.xrus.org 5 5
+http://tula.xrus.org 3 3
+http://buy-cheap-pills-order-online.com 2 2
+http://zakon-ob-obrazovanii.ru 2 2
+http://xn----9sbebi2bvzr7h.xn--p1ai 4 4
+http://izscal-lika.do.am/blog/nozh_rolikovyj_rau_dlja_rezki_tonkolistovogo_metalla_cena_480_euro_sht_kup/2015-08-28-6 0 12
+http://tagil.xrus.org 6 6
+http://www.rospromtest.ru/content.php 3 3
+http://itbc.kiev.ua 2 2
+http://rumamba.com 3 3
+http://most-kerch.org 1 1
+https://td-33.ru 3 3
+http://film-one.ru 3 3
+http://isistaylorporn.info 3 3
+http://video-chat.in 6 6
+http://kemerovo.xrus.org 2 2
+http://i-service.kz 3 3
+http://sygraem.com 3 3
+http://nizhnevartovsk.xrus.org 3 3
+http://xn----8sbdbjgb1ap7a9c4czbh.xn--p1acf 6 6
+http://kinoflux.net 3 3
+http://voloomoney.com 2 2
+http://avtoguru.pro 3 3
+http://gfiquwerutijfmn474859378tug9keofmi49.com 1 1
+http://yaroslavl.xrus.org 2 2
+http://www.symbol-s.ru 5 5
+http://www.oceanfreshfish.ru 5 5
+http://tiu.ru/p76967721-matritsy-dlya-gibochnyh.html 0 2
+http://prepodka.net 5 5
+http://abiente.ru 5 5
+http://archidom.info 5 5
+http://www.rospromtest.ru/sertifikati/deklaraciya-sootvetstviya-tamojennogo-soyuza/ 5 5
+http://yandex.ua/clck/jsredir 8 8
+http://xn--80aebbcbcdemfkhba4byaehoejh8dza3v.xn--p1ai 3 3
+http://remontinfo.by/catalog/systemequipment/machines/minsk/ 1 1
+http://volt-fase.tumblr.com/page/5 0 1
+http://ulanude.xrus.org 3 3
+http://mmog-play.ru 9 9
+http://xn----7sbahjd3btneuw1joc.xn--p1ai 9 9
+http://gastronom.com.ua 5 5
+http://tiu.ru/p76967761-puansony-dlya-listogibov.html 0 2
+http://vologda.xrus.org 4 4
+http://yoshkarola.xrus.org 3 3
+http://dddr.info/kudepstinskiy/04102015/item48ec/ 0 2
+http://sexphoto.site 5 5
+http://vladivostok.xrus.org 6 6
+http://anapa.xrus.org 3 3
+http://eduardbykov.at.ua/blog/diskovye_nozhi_dlja_rezki_rulonov_tualetnoj_bumagi_i_salfetok/2015-04-07-28 0 18
+http://novorossiysk.xrus.org 3 3
+http://tadalafil-sildenafil.com 5 5
+http://mirgam.net 3 3
+http://vashsvet.com 5 5
+https://biznesschat.net 2 2
+http://minsk.pulscen.by/products/diskovyye_ili_kruglyye_nozhi_41768891 0 2
+http://pron.pro 3 3
+http://yandex.kz/clck/jsredir 1 1
+http://tomsk.xrus.org 6 6
+http://xn--80aaajbdbddwj2alwjieei2afr3v.xn--p1ai 6 6
+https://yandex.kz 0 1
+http://domdeco.net 3 3
+http://biznesluxe.ru 9 9
+http://autoplate.info 3 3
+http://www.vladcargo.ru 5 5
+http://www.all-number.com 3 3
+http://www.exchanges-bet.com 3 3
+http://limtu.ifmo.ru 2 2
+http://minsk.pulscen.by/products/shlifovalnyye_krugi_chashechnyye_tsilindricheskiye_41739609 0 8
+http://www.regionshop.biz 6 6
+http://letous.ru 7 7
+http://uytmaster.ru 1 1
+http://lipetsk.xrus.org 1 1
+http://kaliningrad.xrus.org 2 2
+http://pizza-imperia.com 1 1
+http://aico.info/kollektiv/07102015/listovaya_gibka_metalla.htm 0 1
+http://tuapse.xrus.org 3 3
+http://magnitogorsk.xrus.org 9 9
+http://tver.xrus.org 3 3
+http://trudogolik.net 3 3
+http://www.yandex.by/clck/jsredir 2 2
+http://yzdorov.ru 7 7
+http://go.mail.ru/search_images 0 20
+http://https-legalrc.biz 6 6
+http://elvel.com.ua 6 6
+http://sochi.xrus.org 6 6
+http://www.krasivye-devushki.net 5 5
+http://gps495.ru 2 2
+http://scenarii-1-sentyabrya.uroki.org.ua 3 3
+http://light.ifmo.ru 5 5
+http://www.vesnatehno.com 6 6
+http://chiptuninger.com 8 8
+http://ulyanovsk.xrus.org 5 5
+http://hd720kino.ru 7 7
+http://www.o-trubah.com 3 3
+http://kursk.xrus.org 5 5
+http://carsplate.com 5 5
+http://dnepr-avtospar.com.ua 3 3
+http://laudit.ru 6 6
+http://djonwatch.ru 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 10
+rlv 3
+%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5+%d0%bc%d0%b0%d1%82%d1%80%d0%b8%d1%86%d1%8b+%d0%bf%d1%80%d0%b8+%d0%b3%d0%b8%d0%b1%d0%ba%d0%b5 2
+%d0%bc%d0%b0%d1%82%d1%80%d0%b8%d1%86%d0%b8+%d0%bf%d1%83%d0%b0%d0%bd%d1%81%d0%be%d0%bd%d0%b8+%d0%bd%d0%b0+%d0%bd5222%d0%b0+%d1%86%d0%b5%d0%bd%d0%b0 1
+%d0%bf%d1%83%d0%b0%d0%bd%d1%81%d0%be%d0%bd+%d0%b8%d0%b7+%d0%bb%d0%b8%d1%81%d1%82%d0%be%d0%b2 1
+%d0%bd%d0%be%d0%b6%d0%b8+%d0%b4%d0%bb%d1%8f+%d0%b3%d0%b8%d0%b1%d0%ba%d0%b8+%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bb%d0%b0 1
+%d1%82%d0%b0%d0%b1%d0%bb%d0%b8%d1%86%d0%b0+%d0%bf%d0%be%d0%b4%d0%b1%d0%be%d1%80%d0%b0+%d0%bf%d1%83%d0%b0%d0%bd%d1%81%d0%be%d0%bd+%d0%b8+%d0%bc%d0%b0%d1%82%d1%80%d0%b8%d1%86%d1%83+%d0%bf%d0%be%d0%b4+%d1%83%d0%b3%d0%be%d0%bb 1
+%d0%b3%d0%be%d0%bb%d0%be%d0%b2%d0%ba%d0%b8+%d0%b0%d0%bb%d0%bc%d0%b0%d0%b7%d0%bd%d1%8b%d0%b5+%d0%bd%d0%b0+%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b9+%d1%81%d0%b2%d1%8f%d0%b7%d0%ba%d0%b5+aw+%d1%86%d0%b5%d0%bd%d1%8b 1
+%d0%b0%d1%814+%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%ba%d0%b0 1
+%d1%80%d0%b0%d0%b4%d0%b8%d1%83%d1%81%d1%8b+%d0%b3%d0%b8%d0%b1%d0%ba%d0%b8+%d0%bb%d0%b8%d1%81%d1%82%d0%be%d0%b2%d0%be%d0%b3%d0%be+%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bb%d0%b0+%d1%81%d0%b2%d0%be%d0%b1%d0%be%d0%b4%d0%bd%d0%b0%d1%8f+%d0%b3%d0%b8%d0%b1%d0%ba%d0%b0 1
+%d0%bc%d0%b0%d1%82%d1%80%d0%b8%d1%86%d1%8b+%d0%b4%d0%bb%d1%8f+%d0%b3%d0%b8%d0%b1%d0%ba%d0%b8+%d0%bb%d0%b8%d1%81%d1%82%d0%be%d0%b2%d0%be%d0%b3%d0%be+%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bb%d0%b0 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 35
+rlv 3
+%d0%bc%d0%b0%d1%82%d1%80%d0%b8%d1%86%d1%8b 3
+%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bb%d0%b0 3
+%d0%b3%d0%b8%d0%b1%d0%ba%d0%b8 3
+%d0%b4%d0%bb%d1%8f 2
+%d0%bf%d1%80%d0%b8 2
+%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5 2
+%d0%bd%d0%b0 2
+%d0%bf%d1%83%d0%b0%d0%bd%d1%81%d0%be%d0%bd 2
+%d0%bb%d0%b8%d1%81%d1%82%d0%be%d0%b2%d0%be%d0%b3%d0%be 2
+%d1%80%d0%b0%d0%b4%d0%b8%d1%83%d1%81%d1%8b 1
+%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b9 1
+%d1%82%d0%b0%d0%b1%d0%bb%d0%b8%d1%86%d0%b0 1
+%d1%81%d0%b2%d1%8f%d0%b7%d0%ba%d0%b5 1
+%d0%bf%d0%be%d0%b4 1
+%d0%bd5222%d0%b0 1
+%d0%b8 1
+%d1%88%d0%bb%d0%b8%d1%84%d0%be%d0%b2%d0%ba%d0%b0 1
+%d1%83%d0%b3%d0%be%d0%bb 1
+%d0%b3%d0%be%d0%bb%d0%be%d0%b2%d0%ba%d0%b8 1
+%d0%bd%d0%be%d0%b6%d0%b8 1
+%d1%86%d0%b5%d0%bd%d1%8b 1
+%d0%bf%d1%83%d0%b0%d0%bd%d1%81%d0%be%d0%bd%d0%b8 1
+%d0%b0%d0%bb%d0%bc%d0%b0%d0%b7%d0%bd%d1%8b%d0%b5 1
+%d1%86%d0%b5%d0%bd%d0%b0 1
+%d0%bf%d0%be%d0%b4%d0%b1%d0%be%d1%80%d0%b0 1
+%d0%b0%d1%814 1
+%d1%81%d0%b2%d0%be%d0%b1%d0%be%d0%b4%d0%bd%d0%b0%d1%8f 1
+%d0%bb%d0%b8%d1%81%d1%82%d0%be%d0%b2 1
+aw 1
+%d0%bc%d0%b0%d1%82%d1%80%d0%b8%d1%86%d1%83 1
+%d0%b8%d0%b7 1
+%d0%bc%d0%b0%d1%82%d1%80%d0%b8%d1%86%d0%b8 1
+%d0%b3%d0%b8%d0%b1%d0%ba%d0%b5 2
+%d0%b3%d0%b8%d0%b1%d0%ba%d0%b0 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+403 26 2886
+503 364 117572
+206 6 32037
+302 12 0
+500 58 17980
+405 7 1946
+301 379 0
+404 364 5515942
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 237
+/wp-content/themes/profoblog20/functions/jquery-ui/thumbs.php 1 http://stostankov.com/wp-content/themes/profoblog20/functions/jquery-ui/thumbs.php
+/ 23 -
+/wp-content/plugins/sfbrowser/css/sfbrowser.css 1 http://stostankov.com/wp-content/plugins/sfbrowser/css/sfbrowser.css
+/wp-content/plugins/w3-total-cache/lib/Microsoft/Http/Client/userlog.php 1 http://stostankov.com/wp-content/plugins/w3-total-cache/lib/Microsoft/Http/Client/userlog.php
+/wp-content/plugins/zingiri-web-shop/fwkfor/ajax/uploadfilexd.php 1 http://stostankov.com/wp-content/plugins/zingiri-web-shop/fwkfor/ajax/uploadfilexd.php
+/wp-content/themes/highlight/lib/utils/upload-handler.php 1 http://stostankov.com/wp-content/themes/highlight/lib/utils/upload-handler.php
+/wp-content/plugins/fcchat/default.png 2 -
+/admin.php 3 -
+/wp-content/themes/qualifire/scripts/admin/uploadify/uploadify.php 1 http://stostankov.com/wp-content/themes/qualifire/scripts/admin/uploadify/uploadify.php
+/wp-content/plugins/wp-symposium/server/php/mxAIeKtNTXJpOa.php 1 -
+/wp-content/plugins/html5avmanager/lib/uploadify/custom.php 1 http://stostankov.com/wp-content/plugins/html5avmanager/lib/uploadify/custom.php
+/wp-content/themes/deep-blue/megaframe/js/cufon.js 1 http://stostankov.com/wp-content/themes/deep-blue/megaframe/js/cufon.js
+/wp-content/plugins/wp-symposium/server/php/index.php 2 -
+/wp-content/plugins/sexy-contact-form/includes/js/eye.js 1 http://stostankov.com/wp-content/plugins/sexy-contact-form/includes/js/eye.js
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 2 -
+/blog/wp-admin/setup-config.php 1 -
+/wp-content/themes/DailyDeal/style.css 1 http://stostankov.com/wp-content/themes/DailyDeal/style.css
+/wp-content/plugins/db-backup/download.php 8 -
+/wp-content/themes/theagency/includes/uploadify/uploadify.php 1 http://stostankov.com/wp-content/themes/theagency/includes/uploadify/uploadify.php
+/wp-content/themes/WPLocalPlaces/style.css 1 http://stostankov.com/wp-content/themes/WPLocalPlaces/style.css
+/wp-content/plugins/revslider/temp/update_extract/revslider/db.php 1 -
+/wp-content/plugins/mailcwp/js/mailcwp.js 1 http://stostankov.com/wp-content/plugins/mailcwp/js/mailcwp.js
+/wp-content/themes/kiddo/app/assets/js/uploadify/uploadify.php 1 http://stostankov.com/wp-content/themes/kiddo/app/assets/js/uploadify/uploadify.php
+/wp-content/themes/license.php 1 stostankov.com/wp-content/themes/license.php
+/wp-content/plugins/comment-extra-field/readme.txt 2 http://stostankov.com/wp-content/plugins/comment-extra-field/readme.txt
+/wp-content/themes/Clockstone/style.css 1 http://stostankov.com/wp-content/themes/Clockstone/style.css
+/wp-content/themes/u-design/style.css 1 http://stostankov.com/wp-content/themes/u-design/style.css
+/wp-content/plugins/lb-mixed-slideshow/readme.txt 1 http://stostankov.com/wp-content/plugins/lb-mixed-slideshow/readme.txt
+/backup/wp-admin/setup-config.php 1 -
+/wp-content/themes/profoblog20/functions/colorpicker/thumbs.php 1 http://stostankov.com/wp-content/themes/profoblog20/functions/colorpicker/thumbs.php
+/wp-content/plugins/wp-property/action_hooks.php 2 -
+/wp-content/themes/synoptic/style.css 1 http://stostankov.com/wp-content/themes/synoptic/style.css
+/tmp/sfx.php 1 -
+/wp-content/themes/qualifire/style.css 2 http://stostankov.com/wp-content/themes/qualifire/style.css
+/themes/kiddo/app/assets/js/uploadify/uploadify.php 1 http://stostankov.com/themes/kiddo/app/assets/js/uploadify/uploadify.php
+/wp-content/plugins/custom-content-type-manager/index.html 2 -
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 4 -
+/configuration.php.swp 1 -
+/wp-content/plugins/user-meta/readme.txt 2 -
+/wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php 1 http://stostankov.com/wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php
+/wp-content/themes/twentyfourteen/genericons/font/thumbs.php 1 http://stostankov.com/wp-content/themes/twentyfourteen/genericons/font/thumbs.php
+/wp-content/plugins/wp-front-end-repository/js/uploadify/uploadify.php 1 http://stostankov.com/wp-content/plugins/wp-front-end-repository/js/uploadify/uploadify.php
+/product/tokarnyj-stanok-cs6150-cs6150b-cs6150c-cs6250-cs6250b-cs6250c/ 1 -
+/wp-content/plugins/boxit/upload.php 1 http://stostankov.com/wp-content/plugins/boxit/upload.php
+/wp-content/plugins/WVideoWizard/js/easyTooltip.js 1 -
+/wp-content/themes/brainstorm/style.css 1 http://stostankov.com/wp-content/themes/brainstorm/style.css
+/wp-content/b374k-2.8.php 2 http://stostankov.com/wp-content/b374k-2.8.php
+/wp-content/plugins/front-end-upload/destination.php 4 -
+/wp-content/themes/famous/style.css 1 http://stostankov.com/wp-content/themes/famous/style.css
+/administrator/ 5 http://stostankov.com/administrator/
+/wp-content/plugins/wpstorecart/js/swfobject.js 1 http://stostankov.com/wp-content/plugins/wpstorecart/js/swfobject.js
+/wp-content/plugins/work-the-flow-file-upload/public/assets/js/public.js 1 http://stostankov.com/wp-content/plugins/work-the-flow-file-upload/public/assets/js/public.js
+/wp-content/themes/village/blueprint/gallery/ajaxupload/server/php.php 1 http://stostankov.com/wp-content/themes/village/blueprint/gallery/ajaxupload/server/php.php
+/wp-content/themes/twentyfifteen/404.php 1 stostankov.com/wp-content/themes/twentyfifteen/404.php
+/product/372/.php 1 -
+/wp-content/plugins/wp-e-commerce/license.txt 2 -
+/wp-content/plugins/wordpress-social-stream/css/dcwss_admin.css 1 -
+/wp-content/plugins/Tevolution-FieldsMonetization/style.css 1 -
+/wp-content/themes/nuance/functions/jwpanel/scripts/valums_uploader/php.php 1 http://stostankov.com/wp-content/themes/nuance/functions/jwpanel/scripts/valums_uploader/php.php
+/wp-content/themes/bulteno-theme/style.css 1 http://stostankov.com/wp-content/themes/bulteno-theme/style.css
+/configuration.php.dist 1 -
+/wp-includes/js/system.php 1 http://stostankov.com/wp-includes/js/system.php
+/wp-admin/%20admin-ajax.php 1 -
+/wp-content/plugins/mac-dock-gallery/css/style.css 1 http://stostankov.com/wp-content/plugins/mac-dock-gallery/css/style.css
+/wp-content/themes/felici/style.css 1 http://stostankov.com/wp-content//themes/felici/style.css
+/wp-content/themes/saico/js/custom.js 1 http://stostankov.com/wp-content/themes/saico/js/custom.js
+/wp-content/plugins/afc-plug-system/menu_pages/highslide/highslide-html.js 1 -
+/news/wp-admin/setup-config.php 1 -
+/wp-content/themes/ThinkResponsive/style.css 1 http://stostankov.com/wp-content/themes/ThinkResponsive/style.css
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 2 http://stostankov.com/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php
+/wp-content/themes/TheGoodNewsWP105/style.css 1 http://stostankov.com/wp-content/themes/TheGoodNewsWP105/style.css
+/wp-content/plugins/advanced-access-manager/media/js/configpress.js 1 -
+/wp-content/plugins/ecstatic/readme.txt 1 http://stostankov.com/wp-content/plugins/ecstatic/readme.txt
+/wp-content/plugins/form-lightbox/colorbox/style-1/colorbox.css 1 -
+/wp-content/themes/ThisWay/style.css 1 http://stostankov.com/wp-content/themes/ThisWay/style.css
+/part/zapasnye-chasti-k-stanku-1k62/component/users/ 1 http://stostankov.com/part/zapasnye-chasti-k-stanku-1k62/component/users/
+/wp-content/plugins/complete-gallery-manager/frames/upload-images.php 3 http://stostankov.com/wp-content/plugins/complete-gallery-manager/frames/upload-images.php
+/wp-content/themes/cameleon/includes/fileuploader/upload_handler.php 2 http://stostankov.com/wp-content/themes/cameleon/includes/fileuploader/upload_handler.php
+/wp-content/plugins/spotlightyour/monetize/upload/ 1 http://stostankov.com/wp-content/plugins/spotlightyour/monetize/upload/index.php
+/force-download.php 9 -
+/wp-content/plugins/acf-frontend-display/js/blueimp-jQuery-File-Upload-d45deb1/js/main.js 2 http://stostankov.com/wp-content/plugins/acf-frontend-display/js/blueimp-jQuery-File-Upload-d45deb1/js/main.js
+/wp-content/themes/kiddo/style.css 1 http://stostankov.com/wp-content/themes/kiddo/style.css
+/wp-content/uploads/2014/07/\xcf\xf0\xee\xf4\xe8\xeb\xe8-\xea\xf0\xf3\xe3\xee\xe2.jpg 1 http://stostankov.com/product/603/
+/wp-content/plugins/wp-front-end-repository/readme.txt 1 http://stostankov.com/wp-content/plugins/wp-front-end-repository/readme.txt
+/configuration.php 2 -
+/wp-content/themes/deep-blue/css/blog.css 1 http://stostankov.com/wp-content/themes/deep-blue/css/blog.css
+/wp-content/plugins/work-the-flow-file-upload/public/assets/jQuery-File-Upload-9.5.0/server/php/ 1 http://stostankov.com/wp-content/plugins/work-the-flow-file-upload/public/assets/jQuery-File-Upload-9.5.0/server/php/index.php
+/mobile/product/603/ 3 -
+/license.php 1 -
+/wp-config.php. 1 -
+/wp-content/themes/purevision/sliders/swfobject.js 1 -
+/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php 1 http://stostankov.com/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php
+/wp-content/plugins/omni-secure-files/plupload/examples/upload.php 1 http://stostankov.com/wp-content/plugins/omni-secure-files/plupload/examples/upload.php
+/wp-content/themes/highlight/css/nivo-slider.css 1 http://stostankov.com/wp-content/themes/highlight/css/nivo-slider.css
+/wp-includes/js/tinymce/skins/wordpress/images/wp-manage.php 1 http://stostankov.com/wp-includes/js/tinymce/skins/wordpress/images/wp-manage.php
+/wp-content/themes/felici/sprites/js/cufon-yui.js 1 -
+/product/372/.html 1 -
+/wp-content/themes/ut-strange/addpress/css/style.css 1 http://stostankov.com/wp-content/themes/ut-strange/addpress/css/style.css
+/wp-content/plugins/picturesurf-gallery/upload.php 1 http://stostankov.com/wp-content/plugins/picturesurf-gallery/upload.php
+/wp-content/uploads/2014/01/%C3%83%C2%90%C3%82%C2%A0%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C2%A1%C3%83%C2%90%C3%82%C2%B5%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1-%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%A 1 -
+/wp-content/plugins/candidate-application-form/downloadpdffile.php 1 -
+/wp-content/plugins/auto-attachments/a-a.css 2 -
+/wp-content/plugins/wp-property/third-party/uploadify/uploadify.php 1 http://stostankov.com/wp-content/plugins/wp-property/third-party/uploadify/uploadify.php
+/wp-content/themes/sandbox/style.css 2 http://stostankov.com/wp-content/themes/sandbox/style.css
+/wp/wp-admin/setup-config.php 1 -
+/wp-content/uploads/2015/03/%C3%90%C2%A1%C3%91%E2%80%A6%C3%90%C2%B5%C3%90%C2%BC%C3%90%C2%B0-%C3%90%C2%BF%C3%91%E2%82%AC%C3%90%C2%BE%C3%90%C2%B5%C3%90%C2%B7%C3%90%C2%B4%C3%90%C2%B0-%C3%90%C2%B4%C3%90%C2%BB%C3%91%C2%8F-%C3%90%C2%BF%C3%90%C2%B5%C3%91%E2%80%A1 1 -
+/wp-content/plugins/page-flip-image-gallery/upload.php 2 http://stostankov.com/wp-content/plugins/page-flip-image-gallery/upload.php
+/wp-content/themes/eptonic/functions/jwpanel/scripts/valums_uploader/php.php 1 http://stostankov.com/wp-content/themes/eptonic/functions/jwpanel/scripts/valums_uploader/php.php
+/wp-content/plugins/zingiri-web-shop/admin.css 2 -
+/wp-content/plugins/jquery-html5-file-upload/readme.txt 1 http://stostankov.com/wp-content/plugins/jquery-html5-file-upload/readme.txt
+/configuration.php~ 1 -
+/wp-content/plugins/lb-mixed-slideshow/libs/uploadify/css/uploadify.css 1 http://stostankov.com/wp-content/plugins/lb-mixed-slideshow/libs/uploadify/css/uploadify.css
+/wp-content/themes/thecotton_v114/style.css 1 http://stostankov.com/wp-content/themes/thecotton_v114/style.css
+/wp-content/themes/purevision/style.css 1 http://stostankov.com/wp-content/themes/purevision/style.css
+/wp-content/plugins/custom-background/readme.txt 1 http://stostankov.com/wp-content/plugins/custom-background/readme.txt
+/wp-content/themes/profoblog20/functions/jquery-ui/css/ui-lightness/ini.php 1 http://stostankov.com/wp-content/themes/profoblog20/functions/jquery-ui/css/ui-lightness/ini.php
+/wp-content/plugins/whatsmyrank-devenc/js/json/json2.js 1 -
+/wp-content/plugins/wp-copysafe-pdf/lib/uploadify/uploadify.php 1 http://stostankov.com/wp-content/plugins/wp-copysafe-pdf/lib/uploadify/uploadify.php
+/assets/js/uploadify/uploadify.php 2 http://stostankov.com/assets/js/uploadify/uploadify.php
+/wp-content/themes/kernel-theme/functions/upload-handler.php 1 http://stostankov.com/wp-content/themes/kernel-theme/functions/upload-handler.php
+/product/ploskoshlifovalnyj-stanok-my7130/ 1 -
+/wp-includes/js/tinymce/themes/advanced/skins/default/thumbs.php 1 http://stostankov.com/wp-includes/js/tinymce/themes/advanced/skins/default/thumbs.php
+/wp-content/plugins/dzs-videogallery/admin/dzsuploader/upload.css 1 http://stostankov.com/wp-content/plugins/dzs-videogallery/admin/dzsuploader/upload.css
+/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/ini.php 1 http://stostankov.com/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/ini.php
+/wp-content/themes/uncode/style.css 1 -
+/wp-content/themes/gadgetine-theme/functions/upload-handler.php 1 http://stostankov.com/wp-content/themes/gadgetine-theme/functions/upload-handler.php
+/wp-content/themes/highlight/style.css 1 http://stostankov.com/wp-content/themes/highlight/style.css
+/wp-content/plugins/wpstorecart/lgpl.txt 2 -
+/wp-content/plugins/front-file-manager/lib/plupload/js/plupload.js 1 http://stostankov.com/wp-content/plugins/front-file-manager/lib/plupload/js/plupload.js
+/product/tokarnyj-stanok-cs6140-cs6240/ 1 -
+/wp-content/plugins/website-contact-form-with-file-upload/js/upload.js 1 http://stostankov.com/wp-content/plugins/website-contact-form-with-file-upload/js/upload.js
+/product/372/html 1 -
+/wp-includes/js/tinymce/themes/advanced/skins/o2k7/ini.php 1 http://stostankov.com/wp-includes/js/tinymce/themes/advanced/skins/o2k7/ini.php
+/wp-content/plugins/i-dump-iphone-to-wordpress-photo-uploader/js/main.js 1 http://stostankov.com/wp-content/plugins/i-dump-iphone-to-wordpress-photo-uploader/js/main.js
+/uploadify/uploadify.php 1 http://stostankov.com/uploadify/uploadify.php
+/o-kompanii/nashi-dostizheniya-i-preimushhestva/ 10 http://stostankov.com/
+/comments/feed/ 3 -
+/wp-content/plugins/topquark/lib/js/fancyupload/showcase/batch/script.php 1 http://stostankov.com/wp-content/plugins/topquark/lib/js/fancyupload/showcase/batch/script.php
+/configuration.php. 1 -
+/wp-content/plugins/wp-ecommerce-shop-styling/includes/download.php 1 -
+/wp-content/plugins/custom-background/js/custom_background.js 1 -
+/wp-content/plugins/premium-seo-pack/aa-framework/shortcodes/js/tinymce.popup.js 1 -
+/configuration.php.bak 1 -
+/product/tokarnyj-stanok-1a616/ 1 -
+/product/372.html%20http:/rezhemmetall.ru/stanok-lazernoj-rezki-metalla.html 1 -
+/wp-content/themes/profoblog20/js/helpers/thumbs.php 1 http://stostankov.com/wp-content/themes/profoblog20/js/helpers/thumbs.php
+/wp-content/themes/area53-v1.0.2/framework/_scripts/valums_uploader/php.php 1 http://stostankov.com/wp-content/themes/area53-v1.0.2/framework/_scripts/valums_uploader/php.php
+/wp-content/plugins/rbxgallery/js/script.js 1 http://stostankov.com/wp-content/plugins/rbxgallery/js/script.js
+/configuration.php.swo 1 -
+/product/372/.html%20http:/rezhemmetall.ru/stanok-lazernoj-rezki-metalla.html 1 -
+/wp-content/themes/rayoflight-theme/functions/upload-handler.php 1 http://stostankov.com/wp-content/themes/rayoflight-theme/functions/upload-handler.php
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 2 -
+/product/vertikalno-sverlilnyj-stanok-z5140a-z5150a/ 1 -
+/product/vertikalno-sverlilnyj-stanok-z5030-z5035/ 1 -
+/blog/wordpress/wp-admin/setup-config.php 1 -
+/assets/global/plugins/jquery-file-upload/server/php/ 1 http://stostankov.com/assets/global/plugins/jquery-file-upload/server/php/
+/product/372.php 1 -
+/wp-content/themes/mTheme-Unus/css/css.php 4 http://stostankov.com/wp-content/themes/mTheme-Unus/css/css.php
+/wp-content/themes/dimension/style.css 2 http://stostankov.com/wp-content/themes/dimension/style.css
+/wp-config.php.backup 1 -
+/sites/all/libraries/elfinder/connectors/php/connector.php 1 http://stostankov.com/sites/all/libraries/elfinder/connectors/php/connector.php
+/wp-content/themes/drochilli-child/uploadify/uploadify.php 1 http://stostankov.com/wp-content/themes/drochilli-child/uploadify/uploadify.php
+/wp-content/plugins/./simple-image-manipulator/controller/download.php 1 -
+/wp-content/plugins/radykal-fancy-gallery/readme.txt 1 http://stostankov.com/wp-content/plugins/radykal-fancy-gallery/readme.txt
+/wp-content/themes/twentyten/404.php 1 stostankov.com/wp-content/themes/twentyten/404.php
+/wp-content/plugins/simple-dropbox-upload-form/ 2 -
+/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/ini.php 1 http://stostankov.com/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/ini.php
+/wordpress/wp-admin/setup-config.php 1 -
+/wp-content/themes/konzept/includes/uploadify/upload.php 2 http://stostankov.com/wp-content/themes/konzept/includes/uploadify/upload.php
+/wp-content/plugins/resume-submissions-job-postings/installer.php 2 -
+/wp-content/plugins/wp-crm/readme.txt 1 http://stostankov.com/wp-content/plugins/wp-crm/readme.txt
+/wp-content/plugins/mailpress/readme.txt 1 -
+/wp-content/plugins/wp-easy-gallery-pro/admin/php.php 1 http://stostankov.com/wp-content/plugins/wp-easy-gallery-pro/admin/php.php
+/wp-content/plugins/premium-seo-pack-light-version/aa-framework/shortcodes/js/tinymce.popup.js 1 -
+/product/tokarnyj-stanok-s-chpu-tk36/ 1 -
+/wp-content/themes/twentyeleven/404.php 1 stostankov.com/wp-content/themes/twentyeleven/404.php
+/wp-content/themes/anthology/functions/upload-handler.php 1 http://stostankov.com/wp-content/themes/anthology/functions/upload-handler.php
+/wp-content/plugins/evarisk/readme.txt 1 http://stostankov.com/wp-content/plugins/evarisk/readme.txt
+/wp-content/plugins/flipbook/php.php 1 http://stostankov.com/wp-content/plugins/flipbook/php.php
+/wp-content/themes/rayoflight/functions/upload-handler.php 2 http://stostankov.com/wp-content/themes/rayoflight/functions/upload-handler.php
+/wp-content/plugins/user-photo/admin.css 2 -
+/wp-content/plugins/recent-backups/download-file.php 1 -
+/wordpress/wordpress/wp-admin/setup-config.php 1 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 2 -
+/wp-content/plugins/magic-fields/MF_Constant.php 2 -
+/wp-content/themes/corporate/404.php 1 stostankov.com/wp-content/themes/corporate/404.php
+/wp-content/plugins/awesome-support/plugins/jquery.fineuploader-3.5.0/server/php/example.php 1 http://stostankov.com/wp-content/plugins/awesome-support/plugins/jquery.fineuploader-3.5.0/server/php/example.php
+/wp/wp-content/force-download.php 9 -
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 2 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/info.php 1 -
+/cfg-contactform-4/inc/upload.php 1 http://stostankov.com/cfg-contactform-4/inc/upload.php
+/wp-content/plugins/user-avatar/readme.txt 2 -
+/wp-content/themes/konzept/style.css 1 http://stostankov.com/wp-content/themes/konzept/style.css
+/product/tokarno-karuselnyj-obrabatyvayushhij-centr-ktm-912/ 1 -
+/wp-content/plugins/wpmarketplace/uploadify/swfobject.js 1 http://stostankov.com/wp-content/plugins/wpmarketplace/uploadify/swfobject.js
+/wp-content/plugins/ab-testimonials/css/testimonials_shortcode.css 1 -
+/wp-content/plugins/rbxgallery/readme.txt 1 http://stostankov.com/wp-content/plugins/rbxgallery/readme.txt
+/wp-content/themes/twentytwelve/404.php 1 stostankov.com/wp-content/themes/twentytwelve/404.php
+/wp-content/plugins/ninja-forms/ninja_forms.php 1 -
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 2 -
+/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/thumbs.php 1 http://stostankov.com/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/thumbs.php
+/wp-content/plugins/wp-filemanager/fm.php 2 -
+/wp-content/themes/switchblade-v1.3/framework/_scripts/valums_uploader/php.php 2 http://stostankov.com/wp-content/themes/switchblade-v1.3/framework/_scripts/valums_uploader/php.php
+/wp-content/plugins/front-end-upload/lib/plupload/js/plupload.js 1 http://stostankov.com/wp-content/plugins/front-end-upload/lib/plupload/js/plupload.js
+/wp-content/force-download.php 10 -
+/wp-content/themes/charcoal/style.css 1 http://stostankov.com/wp-content/themes/charcoal/style.css
+/wp-content/plugins/contact-form-7/license.txt 2 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 2 -
+/wp-content/plugins/abc3000/assets/css/styles.css 1 -
+/wp-content/plugins/font-uploader/fontFunctions/fu_script.js 1 http://stostankov.com/wp-content/plugins/font-uploader/fontFunctions/fu_script.js
+/wp-content/plugins/wp-symposium/server/php/AXXvKYXgIIcLYl.php 1 -
+/wp-content/themes/lightspeed/functions/jwpanel/scripts/valums_uploader/php.php 1 http://stostankov.com/wp-content/themes/lightspeed/functions/jwpanel/scripts/valums_uploader/php.php
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 2 -
+/wp-includes/js/jcrop/sys.php 1 http://stostankov.com/wp-includes/js/jcrop/sys.php
+/wp-content/plugins/zingiri-web-shop/readme.txt 1 http://stostankov.com/wp-content/plugins/zingiri-web-shop/readme.txt
+/wp-content/themes/felici/sprites/js/uploadify/uploadify.php 1 http://stostankov.com/wp-content/themes/felici/sprites/js/uploadify/uploadify.php
+/wp-content/plugins/font-uploader/font-uploader-free.php 2 -
+/product/tokarnyj-stanok-c6163-c6263/ 1 -
+/wp-content/plugins/wp-image-news-slider/functions.php 1 -
+/wp-includes/js/tinymce/themes/advanced/skins/o2k7/thumbs.php 1 http://stostankov.com/wp-includes/js/tinymce/themes/advanced/skins/o2k7/thumbs.php
+/wp-content/plugins/wptf-image-gallery/lib-mbox/ajax_load.php 1 -
+/wp-content/uploads/wpallimport/uploads/a778e1e541a522ca46cd4fb5138bd713/db.php 1 -
+/wp-content/plugins/aviary-image-editor-add-on-for-gravity-forms/includes/upload.php 2 http://stostankov.com/wp-content/plugins/aviary-image-editor-add-on-for-gravity-forms/includes/upload.php
+/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php 1 http://stostankov.com/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/wp-content/plugins/wpstorecart/readme.txt 2 http://stostankov.com/wp-content/plugins/wpstorecart/readme.txt
+/wp-content/plugins/gallery-plugin/upload/php.php 2 http://stostankov.com/wp-content/plugins/gallery-plugin/upload/php.php
+/wp-content/themes/Newspaper/style.css 1 -
+/wp-content/plugins/php-event-calendar/server/file-uploader/ 1 http://stostankov.com/wp-content/plugins/php-event-calendar/server/file-uploader/
+/wp-content/plugins/wpmarketplace/readme.txt 3 -
+/wp-content/plugins/drag-drop-file-uploader/readme.txt 1 http://stostankov.com/wp-content/plugins/drag-drop-file-uploader/readme.txt
+/wp-content/plugins/InstaBuilder/js/admin.js 1 -
+/wp-content/plugins/ckeditor-for-wordpress/readme.txt 1 http://stostankov.com/wp-content/plugins/ckeditor-for-wordpress/readme.txt
+/wp-content/plugins/content-flow3d/shortcode/upload.php 1 http://stostankov.com/wp-content/plugins/content-flow3d/shortcode/upload.php
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 1 -
+/wp-content/plugins/wp-editor/readme.txt 1 -
+/%23configuration.php%23 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 817
+146.185.251.139 25112 25112 9291440 20160731225630
+146.185.251.48 5386 5386 1992820 20160711113902
+146.185.251.211 4506 4506 1667220 20160704202126
+146.185.251.137 3655 3655 1352350 20160714064915
+91.210.146.82 93 93 67990 20160723193806
+46.118.156.206 82 82 2438221 20160730143833
+46.119.112.87 78 78 2964259 20160731015021
+134.249.53.10 73 73 2638822 20160730162900
+178.137.163.41 62 62 2087806 20160731140557
+134.249.65.218 49 49 1275317 20160731062245
+141.0.13.212 1 1 7198 20160702223711
+176.120.49.150 0 1 23261 
+94.181.245.2 0 1 285279 
+176.77.90.164 1 34 257166 20160731121233
+195.133.197.7 2 22 498252 20160722105740
+46.175.81.200 1 20 292114 20160721105913
+217.196.24.150 0 1 23261 
+85.140.6.86 0 1 42671 
+93.84.54.8 0 2 45106 
+81.211.99.222 1 29 493126 20160705104538
+94.180.114.66 0 1 44713 
+217.69.133.169 1 1 27817 20160724213344
+62.182.202.138 0 2 54492 
+5.248.40.19 1 1 252187 20160701032731
+176.77.89.201 1 9 226044 20160720060614
+91.144.163.237 1 29 493126 20160719100740
+89.151.132.168 0 1 23261 
+109.163.219.224 1 67 1186391 20160713063949
+45.55.134.22 1 6 175421 20160715040034
+78.25.31.34 0 1 23261 
+82.145.209.194 1 1 7198 20160714095639
+93.85.27.121 0 1 53892 
+178.218.30.46 1 40 723514 20160711102615
+54.237.245.62 2 2 55634 20160725052035
+54.152.205.222 1 1 27817 20160719011525
+176.212.136.173 0 1 27246 
+208.43.225.85 1 1 27817 20160722013705
+220.248.230.217 1 1 28247 20160713102110
+5.164.219.4 1 1 17322 20160702082026
+188.18.111.39 0 1 7414 
+188.32.121.81 1 47 506051 20160725193414
+37.112.5.163 0 1 27246 
+5.45.255.92 0 1 27246 
+85.159.227.13 0 1 23261 
+109.197.114.40 0 1 42671 
+188.242.94.68 1 20 292114 20160727223009
+217.25.207.27 2 31 593392 20160718020321
+178.154.15.155 0 1 53892 
+176.212.42.25 1 1 52077 20160714123929
+217.147.24.152 1 44 514120 20160706130217
+87.248.188.250 2 21 315799 20160718115344
+165.225.104.70 0 1 53892 
+141.0.14.148 1 1 7198 20160712184624
+128.68.222.8 1 34 257166 20160708181338
+93.73.171.51 0 1 23261 
+176.60.72.89 9 104 2174116 20160712105351
+109.60.138.221 11 11 465058 20160721092031
+176.77.58.200 1 44 455837 20160725131253
+176.8.22.193 1 1 252187 20160721144818
+176.9.98.12 1 1 27817 20160710175338
+178.150.180.132 0 1 27246 
+66.249.81.226 0 11 93378 
+178.154.34.245 2 39 549709 20160702000942
+176.193.207.126 1 17 199999 20160731151552
+95.53.56.86 1 29 493126 20160708225927
+45.55.162.239 1 1 27817 20160714073322
+93.185.192.68 0 1 53892 
+91.210.144.235 6 6 2646 20160718000233
+62.122.145.49 0 3 62565 
+188.244.47.215 1 9 200017 20160710151210
+193.19.119.84 1 1 52077 20160716163816
+31.173.100.222 0 1 53892 
+37.54.105.40 0 1 27246 
+81.23.187.101 1 31 513496 20160711084009
+46.118.238.138 24 24 429408 20160716150333
+82.145.218.11 1 1 7198 20160709125304
+188.93.28.27 0 1 27246 
+95.108.225.214 1 19 348775 20160703103730
+79.137.180.252 1 1 27817 20160718181934
+178.124.150.47 1 33 501477 20160719093025
+95.80.98.93 2 21 493317 20160727122501
+212.26.226.212 0 1 26750 
+212.112.118.148 10 98 6420645 20160704181723
+90.191.207.102 1 29 493126 20160729221546
+37.215.110.83 1 20 292114 20160728183431
+82.145.222.136 1 29 493126 20160729111808
+212.83.139.194 2 2 2 20160729084612
+109.202.8.152 1 29 493126 20160704052429
+82.116.9.208 1 44 514120 20160710125653
+130.180.218.186 2 20 255183 20160706184735
+95.153.133.191 0 1 53892 
+37.215.19.137 4 4 92480 20160706143443
+78.138.159.175 3 31 551322 20160713072655
+141.0.14.39 1 1 7198 20160713171231
+176.77.36.24 1 34 253152 20160708181338
+5.18.136.235 1 30 505045 20160724005228
+78.85.185.73 0 1 23261 
+141.0.15.239 1 1 7198 20160713082022
+37.215.162.10 0 1 27246 
+128.72.75.82 1 9 197694 20160710004235
+193.106.163.80 0 1 42671 
+52.34.92.215 1 3 145458 20160728163528
+81.195.102.162 1 32 485057 20160727181844
+141.0.14.241 1 1 7198 20160701064114
+46.188.71.130 1 17 218385 20160714051405
+82.207.84.22 1 21 323720 20160714084906
+178.121.229.43 0 99 3268660 
+46.251.66.209 0 1 215040 
+92.242.19.34 0 1 42671 
+46.42.161.3 1 17 228184 20160714051411
+43.254.29.139 1 1 27817 20160722195507
+193.238.128.58 1 29 493126 20160725101912
+94.179.92.89 1 29 493126 20160715205424
+93.88.141.94 2 59 1057420 20160714092346
+213.184.254.185 0 1 53892 
+176.124.132.38 1 23 294036 20160722093243
+46.242.55.252 1 9 197694 20160709132411
+93.84.128.101 2 2 55634 20160719092841
+37.204.89.211 1 34 252545 20160720161754
+176.14.83.248 1 34 253152 20160721061953
+178.67.103.175 0 1 42671 
+93.85.124.186 2 21 258226 20160701094449
+212.120.164.206 0 1 53892 
+81.17.138.30 2 2 70095 20160706095923
+195.239.18.106 1 29 493126 20160729072023
+5.164.101.55 1 47 506051 20160726071256
+37.204.159.37 1 32 485057 20160720031050
+80.12.94.1 2 2 58098 20160731163341
+92.243.166.10 1 21 323720 20160713215706
+62.210.94.38 8 8 222536 20160728205121
+194.126.181.254 3 41 582567 20160715144920
+128.68.2.14 1 17 202889 20160710015654
+195.218.132.80 0 1 27246 
+128.74.247.75 0 1 44011 
+85.117.104.194 0 1 53892 
+95.134.112.142 0 1 27246 
+128.0.87.55 0 1 42671 
+37.44.120.199 0 1 53892 
+80.91.206.185 2 21 493692 20160712114410
+178.46.128.172 0 1 42671 
+188.255.22.8 2 15 201975 20160714123929
+83.69.83.229 1 29 493126 20160706121152
+93.84.154.216 1 1 27817 20160701084232
+176.111.255.158 0 1 42671 
+92.47.68.182 1 20 292114 20160706092242
+46.133.83.167 0 1 53892 
+80.91.174.114 0 1 53892 
+217.66.158.65 1 1 42278 20160701211207
+5.189.200.161 1 1 27817 20160709082734
+46.216.168.87 0 1 26750 
+95.73.104.162 0 1 27246 
+62.212.73.49 1 1 27817 20160723221010
+95.66.214.33 0 1 44011 
+199.30.25.77 0 6 27704 
+213.79.103.155 2 30 522224 20160712110448
+83.174.226.163 0 1 42671 
+82.145.216.250 2 2 14396 20160712133334
+213.87.150.11 0 2 70682 
+78.36.169.79 1 36 276577 20160701135543
+5.228.203.232 1 9 197087 20160720060614
+46.23.150.146 0 2 98605 
+194.158.205.170 4 15 305437 20160728100329
+91.146.43.242 1 23 242189 20160711085118
+178.123.112.80 1 1 27817 20160728003330
+82.135.219.244 1 29 493126 20160708082944
+46.203.66.101 0 1 53892 
+62.209.130.240 0 2 98605 
+217.118.91.62 0 1 27246 
+89.109.236.13 1 29 493126 20160722164155
+5.228.16.155 1 34 255475 20160708181340
+176.99.7.153 2 2 42141 20160703094055
+195.96.170.170 1 29 493126 20160719132507
+37.215.151.104 1 1 23120 20160711082225
+79.178.242.69 1 29 493126 20160715042928
+46.159.40.60 0 1 42671 
+82.145.216.161 1 1 7198 20160715112857
+46.8.234.75 1 1 26050 20160703094036
+37.215.113.244 2 2 46240 20160702094311
+94.186.101.71 0 1 53892 
+213.87.149.221 2 20 283650 20160701143617
+37.150.162.75 0 1 27246 
+37.44.88.232 0 1 285279 
+37.213.148.136 0 1 54068 
+91.236.221.245 3 22 333733 20160719151351
+37.215.189.121 1 1 27817 20160722102517
+54.84.215.62 2 2 55634 20160719221218
+178.20.235.164 1 1 42278 20160713132832
+213.33.214.18 0 1 44713 
+176.96.241.247 0 1 23261 
+109.206.177.104 2 2 84556 20160728113047
+46.158.201.238 1 1 27817 20160706152435
+128.72.209.127 1 19 231926 20160714123928
+217.107.199.172 0 1 23261 
+166.62.93.132 5 5 139085 20160722103417
+5.228.255.32 1 27 399306 20160720163015
+188.93.56.216 2 2 55634 20160716103548
+188.32.129.128 1 17 203924 20160714051359
+82.145.218.22 1 1 7198 20160715084656
+217.118.95.112 1 30 493444 20160713133054
+46.166.100.10 4 54 1244239 20160704142908
+93.85.55.119 0 2 45106 
+37.212.190.84 0 1 27246 
+37.190.94.15 1 29 493126 20160715013309
+188.163.66.147 0 1 23261 
+93.84.186.64 2 2 55634 20160706074953
+109.173.68.170 0 1 27246 
+176.77.13.92 1 15 293520 20160702214459
+193.41.186.77 1 20 236486 20160713014828
+37.212.51.23 1 29 493126 20160719200325
+82.145.209.122 1 1 7198 20160701070536
+212.227.114.79 1 1 27817 20160705080007
+95.153.135.146 1 25 376479 20160730175911
+192.162.42.1 0 1 7414 
+85.117.112.247 0 1 53892 
+178.172.240.23 8 54 904159 20160725220859
+176.77.61.225 1 17 203924 20160710022659
+93.76.237.105 1 29 493126 20160703181411
+178.121.15.216 1 20 292114 20160703205248
+178.121.208.79 0 2 45106 
+109.252.36.215 0 1 53892 
+188.187.176.25 0 1 31606 
+89.208.96.117 2 21 520336 20160704084726
+46.219.54.138 0 1 53892 
+94.230.132.38 1 29 493126 20160725120039
+213.160.137.230 0 3 82415 
+5.165.251.175 1 5 66813 20160714041914
+46.229.141.178 0 1 27246 
+172.58.137.62 2 35 773015 20160712054543
+141.0.14.31 1 1 7198 20160714113943
+91.78.238.219 1 21 323720 20160717214033
+46.61.21.175 0 1 42671 
+46.160.59.11 1 29 493126 20160706134848
+176.195.28.49 0 1 44011 
+54.82.171.129 1 1 27817 20160718144217
+86.57.176.157 0 1 71168 
+94.198.34.142 1 29 493126 20160726114501
+46.182.129.23 0 1 23261 
+78.36.199.47 2 20 263913 20160722174909
+199.114.222.79 1 1 27817 20160719125541
+188.254.105.91 1 29 493126 20160728090402
+217.18.144.109 0 1 22461 
+176.193.206.33 1 9 216245 20160714013122
+89.33.215.137 0 1 16420 
+141.0.15.169 1 1 7198 20160715075147
+95.174.99.160 3 87 1479378 20160725100959
+194.79.20.234 1 29 493126 20160701150118
+93.170.131.133 1 1 42278 20160707093757
+95.29.75.8 11 11 465058 20160725222703
+178.120.142.185 7 42 630304 20160708145709
+93.78.127.100 0 1 31606 
+95.221.251.68 2 52 522137 20160731151540
+46.229.184.126 0 1 44011 
+176.100.136.18 0 2 20370 
+82.145.218.184 1 1 7198 20160711161437
+23.247.143.184 2 2 56062 20160731152008
+109.108.78.140 2 2 70095 20160704173247
+66.249.90.21 1 1 27817 20160709100842
+217.118.93.151 0 2 107784 
+46.42.128.249 0 1 44011 
+91.105.184.156 0 1 53892 
+89.178.208.84 0 1 27246 
+176.77.15.9 1 2 42596 20160720031051
+31.173.242.34 0 1 44011 
+85.143.165.206 1 29 493126 20160718093423
+120.52.72.58 1 1 42708 20160715172527
+91.200.114.200 0 1 53892 
+46.188.61.0 1 35 313108 20160720161837
+104.238.180.234 2 2 55634 20160719023056
+93.84.161.188 1 1 27817 20160711094103
+37.17.112.51 4 48 697711 20160728091741
+89.19.105.117 0 1 44011 
+91.221.70.27 1 1 42278 20160707101916
+213.242.205.65 1 29 493126 20160722132708
+194.44.253.225 0 2 98605 
+83.242.255.223 1 29 493126 20160706084527
+128.68.60.96 1 34 312549 20160702214458
+213.24.134.9 1 29 493126 20160718114119
+198.71.226.44 1 1 27817 20160704175455
+178.126.45.67 1 20 292114 20160718183947
+91.200.12.91 13 13 32710 20160724162712
+37.110.110.188 2 26 405708 20160710222337
+80.93.126.34 0 1 53892 
+81.196.243.251 1 1 27817 20160705160854
+178.126.204.187 11 34 520407 20160708071540
+109.188.124.70 0 6 98986 
+79.164.132.175 1 36 365766 20160710004636
+84.201.227.49 1 219 6695493 20160718153930
+91.240.210.194 2 30 535404 20160706141733
+5.149.254.109 1 1 27817 20160704140233
+93.80.27.246 1 17 203848 20160711173114
+46.53.219.27 2 21 310048 20160717184820
+46.200.196.85 1 29 493126 20160707082500
+188.255.15.81 1 34 293810 20160725131253
+37.55.95.137 0 1 23261 
+95.172.36.74 5 44 905097 20160721120153
+5.63.80.183 0 1 123583 
+82.208.89.58 2 21 310048 20160713162411
+91.225.143.137 0 1 54068 
+178.121.230.231 2 25 483279 20160728140656
+37.215.78.18 1 1 27817 20160707105823
+88.119.17.173 1 32 485057 20160705144809
+91.79.28.21 2 2 45139 20160712161136
+198.71.226.56 1 1 27817 20160705142145
+188.115.178.129 0 1 53892 
+212.220.113.186 1 29 493126 20160725140605
+188.162.86.86 2 21 344191 20160718173424
+77.79.137.158 0 1 53892 
+95.69.249.86 2 31 606572 20160719160526
+89.146.84.29 0 1 53892 
+83.149.44.170 0 1 53892 
+178.120.59.124 0 2 45106 
+212.232.6.166 1 29 493126 20160705221325
+212.58.202.18 0 1 53892 
+2.73.91.86 0 1 53892 
+94.23.230.134 2 2 84556 20160720145933
+188.213.38.5 0 6 98986 
+95.26.218.158 1 9 200749 20160714174143
+90.154.95.44 1 47 506051 20160726210658
+94.180.219.64 0 1 44011 
+195.168.201.91 1 29 493126 20160707210157
+176.8.89.183 23 23 655376 20160706114838
+194.50.24.3 1 23 318477 20160726002854
+37.17.118.11 0 1 27246 
+94.241.63.53 0 1 42671 
+148.251.44.219 1 1 52077 20160704071523
+134.0.96.200 1 20 292114 20160704180203
+85.30.249.222 1 9 201784 20160709134313
+62.80.177.95 9 39 564891 20160705113509
+91.201.245.3 1 1 42278 20160712111058
+188.237.134.26 1 36 276561 20160723221427
+131.253.25.133 0 7 27817 
+31.132.176.105 2 21 315799 20160727134247
+109.251.146.18 1 1 42278 20160727101910
+93.124.100.96 9 129 7922918 20160724122734
+5.153.173.17 1 20 292114 20160726090132
+77.240.152.94 0 28 450848 
+176.14.254.195 1 9 200017 20160709142529
+37.212.204.170 0 1 285279 
+77.108.72.178 2 2 70095 20160720083402
+37.57.0.234 0 1 44011 
+94.19.155.100 1 42 949047 20160721144419
+109.172.53.74 2 21 315799 20160727131918
+188.187.125.122 1 39 735543 20160726124707
+194.190.59.189 1 29 493126 20160726081512
+158.255.139.20 1 29 493126 20160725164621
+195.189.60.30 1 29 493126 20160731073957
+109.68.189.2 0 1 42671 
+86.57.217.79 0 1 54068 
+82.145.220.120 1 29 493126 20160714093943
+91.200.114.91 1 21 310929 20160711105616
+141.0.15.136 6 51 1198135 20160725102452
+92.112.63.2 0 1 42671 
+2.93.84.33 1 9 200749 20160710183043
+217.25.207.46 2 30 517811 20160709004058
+37.113.138.177 0 1 53892 
+37.215.113.219 1 19 231551 20160707081953
+91.191.238.42 0 1 27246 
+95.172.35.94 5 65 893950 20160711134010
+85.175.99.189 0 1 53892 
+2.94.174.228 0 1 31606 
+212.98.163.70 2 35 773015 20160714141415
+113.240.250.156 2 2 55634 20160703110756
+91.144.158.144 0 1 44713 
+2.94.75.233 1 9 201784 20160717061722
+141.101.12.35 1 19 236172 20160716063039
+94.180.23.93 0 1 44011 
+85.254.158.71 1 27 451283 20160716190653
+217.119.28.98 2 30 522224 20160721155711
+78.60.169.78 0 1 53892 
+37.55.78.124 2 30 517811 20160715102051
+5.44.169.63 1 29 493126 20160719083224
+193.19.119.9 1 1 42278 20160713140415
+109.248.219.56 0 1 23261 
+134.249.48.27 2 2 99741 20160731200226
+92.38.189.101 1 29 493126 20160722215654
+46.202.202.78 0 3 108085 
+5.248.196.10 12 12 215232 20160731114024
+37.215.119.226 4 29 663404 20160725225231
+128.68.30.127 1 9 226044 20160714013122
+37.214.205.138 0 1 27246 
+188.237.135.208 0 1 53892 
+83.220.238.55 0 1 53892 
+37.21.70.169 0 1 44011 
+5.228.48.185 1 9 201708 20160710181922
+85.26.143.232 0 2 107784 
+95.221.203.158 1 3 34966 20160714123928
+5.248.180.106 1 31 547018 20160712211152
+176.193.100.147 1 39 568875 20160702214459
+37.44.65.186 1 20 292114 20160720205112
+104.131.107.25 5 5 121209 20160701035007
+188.163.73.109 2 27 638245 20160725174058
+217.21.47.226 0 2 45106 
+78.25.23.143 0 1 44011 
+176.8.22.179 1 1 198511 20160730160106
+93.85.196.250 1 32 485057 20160712104855
+176.77.4.25 1 38 396761 20160717053352
+194.84.1.33 1 14 376381 20160726161021
+213.177.105.222 1 29 493126 20160711105408
+37.147.129.98 0 1 15010 
+192.77.248.5 2 2 2 20160705131334
+84.201.233.82 2 35 773015 20160719114611
+92.100.149.134 1 20 292114 20160713183050
+5.45.255.102 0 1 42671 
+37.146.206.241 1 17 202889 20160709134019
+51.254.88.218 2 2 55634 20160705083815
+217.118.95.117 0 1 27246 
+95.27.48.145 0 1 44011 
+46.118.158.47 3 3 156231 20160731214320
+91.102.202.230 0 1 8736 
+2.93.146.146 0 1 42671 
+5.149.255.126 3 4 103380 20160711024959
+62.138.0.25 1 1 27817 20160711170958
+176.77.112.19 2 26 397064 20160714174140
+104.236.52.23 9 9 204520 20160718015711
+176.193.106.22 2 64 705885 20160721023611
+46.242.81.57 0 1 44011 
+178.162.199.142 5 5 280565 20160704142945
+95.46.210.68 3 38 307006 20160714071324
+178.238.30.210 2 21 315799 20160718100535
+31.131.249.213 2 2 2 20160715214253
+176.77.117.197 0 1 44011 
+85.26.233.148 0 2 98605 
+104.154.123.61 0 1 162766 
+176.77.114.124 1 3 39675 20160714041913
+178.137.89.206 4 4 169112 20160712102834
+193.106.40.44 0 1 42671 
+193.19.119.34 1 1 52077 20160716154417
+176.212.72.6 0 2 215040 
+86.57.249.81 1 32 485057 20160715122424
+87.241.251.154 0 1 54068 
+5.137.245.158 1 19 231395 20160728192335
+93.187.181.137 0 6 98986 
+109.188.124.110 0 1 42671 
+213.80.232.55 0 1 7414 
+178.76.204.211 0 1 27246 
+85.95.168.192 0 1 16614 
+41.203.71.184 1 32 485057 20160731020810
+46.185.13.226 24 24 498153 20160710210820
+131.253.27.192 0 7 27817 
+178.121.168.87 0 2 71257 
+87.117.189.62 0 1 44011 
+91.203.174.50 3 44 580180 20160713123905
+89.251.156.191 1 30 564294 20160726214723
+93.170.186.172 2 2 27859 20160702121722
+46.242.123.174 0 1 44011 
+95.172.145.133 0 1 21601 
+83.69.183.104 1 29 493126 20160704135535
+79.126.63.110 0 1 27246 
+178.62.153.200 0 1 27246 
+178.210.42.3 0 2 107784 
+194.190.17.155 1 29 493126 20160718153138
+82.145.219.139 1 1 7198 20160714092236
+91.144.175.20 0 1 53892 
+146.120.87.91 0 2 98605 
+2.62.197.218 0 4 154647 
+212.142.86.182 0 1 53892 
+46.48.121.190 0 3 75975 
+37.204.142.237 1 1 23120 20160720031051
+178.120.219.251 3 40 577891 20160718151048
+87.76.236.144 2 2 55759 20160717191933
+109.188.124.19 9 132 9601442 20160710190015
+66.102.9.49 0 13 194597 
+91.144.173.250 1 19 236172 20160703141643
+82.117.250.181 1 29 493126 20160726084314
+94.24.242.214 1 1 42278 20160701072838
+109.162.43.227 1 1 252187 20160725171308
+5.166.190.47 1 49 1648041 20160705164104
+37.17.7.170 0 1 31606 
+88.210.43.138 0 1 53892 
+188.233.103.128 1 16 144828 20160718100619
+188.32.71.195 0 1 162766 
+178.140.239.10 1 36 278880 20160731121232
+155.133.38.215 2 2 56062 20160723121858
+89.105.247.2 0 1 53892 
+85.234.1.69 1 47 515026 20160701145218
+217.77.60.161 0 1 42671 
+176.15.250.63 1 34 253152 20160718204627
+178.172.152.3 3 42 1048720 20160719191321
+212.48.230.6 0 1 16614 
+188.163.105.78 0 1 7414 
+128.68.158.57 0 1 27246 
+37.17.118.10 2 41 956675 20160719101059
+109.205.242.6 0 1 53892 
+89.249.234.6 0 1 27246 
+90.189.17.60 1 29 493126 20160728083841
+93.84.183.78 2 35 773015 20160713132456
+213.159.238.169 0 2 65625 
+80.64.173.162 14 14 455214 20160716220737
+95.106.8.138 0 1 42671 
+46.118.235.221 27 27 484140 20160724005049
+91.144.155.44 1 29 493126 20160707150045
+178.88.228.35 0 1 44011 
+93.84.132.62 1 6 27817 20160714130826
+66.249.81.229 1 7 96850 20160724195824
+109.172.98.4 6 74 1933893 20160720143559
+176.77.95.217 1 40 433362 20160708181338
+195.216.213.247 1 1 52077 20160721184636
+46.119.129.212 1 29 493126 20160712012747
+93.84.152.32 1 1 27817 20160721081123
+213.145.2.118 1 20 292114 20160727130343
+83.217.12.35 1 26 480846 20160704112402
+92.255.119.70 2 39 715228 20160715114014
+85.26.232.219 1 20 292114 20160707143330
+95.24.55.46 1 18 243810 20160714041912
+82.209.67.42 2 30 517811 20160711121858
+85.26.241.28 0 2 98605 
+95.182.77.63 0 1 53892 
+113.107.112.209 1 1 17752 20160714084853
+78.152.224.66 0 3 82239 
+83.69.178.14 0 2 20370 
+69.58.178.59 11 11 263280 20160710054228
+93.85.171.144 0 99 3268660 
+176.77.102.222 0 1 162766 
+109.188.126.18 1 29 493126 20160721165255
+93.85.137.90 1 30 502606 20160719135527
+95.28.0.2 1 29 493126 20160719223633
+82.145.217.53 1 1 7198 20160713171231
+193.19.119.116 1 1 42278 20160721214918
+178.137.164.171 21 21 2047557 20160719174455
+128.72.78.97 0 1 215040 
+83.149.47.222 0 1 53892 
+195.178.206.210 0 1 7414 
+91.146.35.173 0 1 11733 
+95.83.127.217 18 123 7203927 20160720143425
+31.173.120.181 0 1 53892 
+136.169.191.182 0 1 44011 
+5.228.16.81 1 9 206758 20160720060614
+37.151.211.85 0 1 53892 
+93.84.136.232 1 1 27817 20160715100929
+94.25.2.18 0 1 42671 
+78.137.22.135 2 30 535404 20160725192329
+188.19.129.36 0 2 107784 
+93.84.162.12 1 29 493126 20160727112230
+178.123.169.91 1 1 17322 20160717201844
+85.113.36.128 1 29 493126 20160728080740
+212.86.228.184 1 29 493126 20160707093543
+217.118.81.19 0 1 27246 
+130.193.125.57 0 1 7414 
+52.91.170.237 1 1 27817 20160727160110
+213.137.237.228 8 53 1113807 20160713114837
+81.20.203.210 2 21 497938 20160708143648
+66.102.9.60 3 17 236838 20160728060227
+87.76.53.92 1 25 376479 20160716172836
+176.96.1.200 0 1 53892 
+95.153.130.189 1 29 493126 20160701104130
+93.171.45.133 1 29 493126 20160709224047
+176.14.13.240 1 17 202889 20160714051406
+109.236.211.218 0 6 98986 
+95.221.216.218 1 35 264001 20160708181338
+82.209.212.142 1 18 356801 20160701102937
+178.90.3.21 0 1 21005 
+66.102.9.71 1 16 262812 20160713101155
+141.0.12.129 2 40 775523 20160701111355
+217.114.233.185 0 1 44011 
+95.221.204.78 1 34 253152 20160717063530
+82.145.209.239 1 1 7198 20160712110323
+79.172.69.45 2 18 403416 20160712145714
+46.216.168.39 2 30 511018 20160727113422
+37.187.134.116 2 2 69014 20160718161816
+2.50.150.176 1 2 100266 20160720070503
+79.140.228.49 0 1 53892 
+82.209.198.244 4 54 828797 20160720160453
+141.0.15.103 1 1 7198 20160716204013
+131.253.25.193 0 8 173967 
+86.57.164.231 0 1 16420 
+149.255.115.146 7 84 2195080 20160715143644
+213.184.227.162 7 51 801354 20160718161545
+213.138.85.13 0 2 70506 
+37.229.252.195 22 22 393624 20160705122622
+95.161.187.199 0 6 98986 
+46.41.109.43 1 19 236172 20160706124402
+89.251.65.1 3 59 1015350 20160728073231
+83.99.170.121 2 30 522224 20160725163455
+85.30.233.85 0 1 7414 
+134.19.152.2 0 1 16614 
+176.62.186.205 0 1 23261 
+91.192.201.18 1 29 493126 20160715100442
+217.151.65.106 1 21 310929 20160705091912
+62.105.33.100 0 1 42671 
+176.226.142.245 0 1 31606 
+46.188.40.99 0 1 44011 
+114.37.240.25 1 1 27817 20160719140936
+62.210.88.186 1 1 1 20160717045608
+37.52.167.84 0 1 42671 
+95.221.250.49 1 9 200017 20160712053806
+37.214.159.227 0 4 119720 
+176.104.187.240 0 2 65625 
+84.254.195.181 0 1 23261 
+213.87.123.49 1 20 451212 20160727052955
+67.203.22.43 1 1 27817 20160715032851
+193.109.249.207 2 30 522224 20160721112214
+178.218.26.107 1 29 493126 20160721202338
+136.8.33.69 0 1 7414 
+176.112.1.22 1 48 1597721 20160719165514
+5.167.198.123 1 20 292114 20160712135529
+141.0.14.235 1 1 7198 20160701111335
+172.86.224.11 3 3 287085 20160705040239
+176.77.108.221 2 72 794475 20160714123928
+46.46.67.225 2 21 315799 20160704072626
+178.124.180.242 2 41 887674 20160708161227
+50.31.29.160 2 2 56062 20160708204146
+103.210.210.33 1 1 27817 20160724150109
+213.21.45.233 6 108 2499822 20160728063128
+188.255.48.32 2 26 416079 20160714174144
+193.93.118.6 0 1 53892 
+31.184.197.41 1 1 52077 20160706113028
+95.29.83.244 23 48 1402360 20160718004815
+188.43.11.105 0 2 46522 
+66.249.81.223 0 9 245794 
+91.78.222.207 1 43 425636 20160727063435
+194.1.161.180 0 1 42671 
+109.108.88.30 1 29 493126 20160706142229
+78.85.109.243 0 1 42671 
+141.0.14.86 1 1 7198 20160712095852
+93.185.192.84 1 21 323720 20160712190943
+82.209.251.45 2 19 244921 20160712101824
+37.215.89.146 1 1 27817 20160708080926
+93.125.6.45 4 54 821712 20160718121736
+31.173.80.178 0 1 44011 
+185.120.126.15 1 29 493126 20160715080646
+37.215.112.212 3 3 69360 20160705084808
+104.131.25.244 8 8 188640 20160708145652
+93.91.112.128 1 29 493126 20160712103852
+46.118.117.240 38 38 1296280 20160713085713
+84.47.191.70 0 1 27246 
+104.247.13.3 1 1 27817 20160724173900
+92.126.26.79 0 1 42671 
+94.25.228.101 0 1 42671 
+93.171.46.151 1 29 493126 20160706115630
+193.19.119.25 1 1 42278 20160706182808
+178.137.89.208 23 23 752920 20160713172953
+96.93.140.14 2 2 58098 20160702171604
+46.233.239.70 0 2 20370 
+141.0.15.226 1 1 7198 20160705081631
+37.110.111.230 0 1 44011 
+176.77.67.219 1 14 194942 20160725131253
+5.164.65.17 1 17 203848 20160731151544
+5.102.158.240 0 1 44713 
+37.17.114.213 1 4 33517 20160726182417
+188.163.66.209 2 2 46282 20160724003827
+178.140.239.54 0 1 215040 
+46.53.210.186 0 1 27246 
+213.180.5.210 1 29 493126 20160704091132
+109.251.208.9 1 29 493126 20160725181139
+95.46.245.234 1 34 253317 20160731121233
+176.59.64.135 1 29 493126 20160711134646
+91.200.12.33 1 1 1 20160707072841
+188.235.107.234 2 37 761095 20160707075554
+95.167.184.42 1 51 945748 20160704085433
+178.124.176.243 4 43 672445 20160721105422
+93.170.97.46 0 1 42671 
+212.232.61.16 0 1 42671 
+194.158.205.98 1 25 364565 20160723113229
+67.231.17.144 1 1 27817 20160705082351
+80.255.82.202 2 2 60739 20160719082944
+5.228.46.224 1 9 216245 20160720060614
+188.162.166.147 0 1 11919 
+109.86.217.74 1 29 493126 20160730202304
+195.160.205.82 0 1 21005 
+93.125.63.120 3 24 329591 20160725201438
+213.87.145.146 0 1 44011 
+37.215.13.46 1 1 27817 20160725083633
+89.22.203.61 0 2 65625 
+37.212.119.31 1 20 292114 20160720134655
+80.72.112.138 0 1 42671 
+188.233.58.185 1 20 292114 20160717162421
+193.34.160.57 1 19 234481 20160719184745
+176.14.231.231 1 19 305226 20160720031050
+92.63.99.233 1 1 27817 20160728213824
+95.79.57.23 2 30 535404 20160706092429
+93.85.209.21 1 64 1706174 20160725155056
+93.80.233.149 1 50 937439 20160720162012
+5.167.156.61 0 2 215040 
+94.25.228.9 1 29 493126 20160728162757
+93.170.185.155 1 29 493126 20160731153504
+46.42.133.90 1 34 427466 20160720031051
+113.20.119.75 0 1 16614 
+176.125.48.1 0 1 8736 
+176.209.213.88 0 1 23261 
+37.17.118.5 1 20 292114 20160708093647
+192.109.140.195 1 20 292114 20160718104026
+78.81.11.164 1 48 1597721 20160708125747
+89.149.71.101 0 1 44011 
+37.44.71.245 1 3 287958 20160706133252
+188.32.24.195 0 1 44011 
+213.230.78.185 1 29 493126 20160720210227
+5.100.200.32 0 3 87700 
+178.121.192.195 1 19 469755 20160727150123
+178.137.128.53 22 22 442396 20160717222404
+82.145.209.10 1 1 7198 20160714092236
+195.8.50.122 1 29 493126 20160712212347
+185.93.187.53 6 6 83454 20160703152621
+93.84.177.66 2 2 55634 20160713104559
+80.246.253.214 2 30 535404 20160728111018
+195.189.68.30 1 20 292114 20160701083921
+78.85.249.57 1 1 27817 20160708223401
+37.215.68.30 1 1 27817 20160704080135
+86.57.233.86 2 40 584228 20160726105320
+37.57.176.226 1 1 0 20160705090642
+141.0.15.99 1 1 7198 20160714074921
+31.211.99.115 0 1 53892 
+37.214.91.202 0 1 27246 
+88.84.222.165 1 19 236172 20160708120809
+2.50.148.180 2 30 522224 20160718132241
+93.84.58.61 1 131 3753717 20160712103902
+93.84.16.160 0 94 3130787 
+95.85.80.145 1 1 27817 20160710190637
+85.132.14.85 1 29 493126 20160712084246
+87.117.48.95 4 29 387498 20160705154843
+31.43.58.22 0 2 98605 
+46.71.126.129 0 1 53892 
+104.236.8.231 9 9 208979 20160727121424
+89.109.234.190 1 29 493126 20160712095638
+92.101.134.33 1 20 236486 20160703075506
+31.28.31.38 0 1 8736 
+85.202.225.247 0 1 27246 
+176.212.200.188 0 1 23261 
+212.59.113.18 0 1 27246 
+178.124.180.230 2 36 988055 20160728155935
+37.45.99.229 7 87 2824553 20160716105600
+178.137.154.56 6 6 107352 20160707114105
+176.77.122.230 1 9 201784 20160720060614
+134.249.54.211 2 2 60170 20160712200338
+83.220.237.50 1 29 493126 20160722134925
+81.25.47.200 1 20 292114 20160714103244
+128.68.25.34 1 9 200017 20160711160934
+82.145.219.174 1 1 7198 20160712184624
+77.94.122.232 1 21 255583 20160730093811
+88.216.101.161 16 90 2907557 20160730095412
+46.109.137.182 2 23 339250 20160727191406
+82.117.227.26 0 1 53892 
+178.121.88.55 0 2 71257 
+185.40.159.139 2 22 375797 20160722122211
+77.246.236.114 0 1 42671 
+188.162.39.3 0 1 42671 
+37.55.239.60 0 1 7414 
+141.0.15.138 1 1 7198 20160714113943
+82.145.221.182 1 1 7198 20160702184055
+134.249.233.218 12 12 215232 20160726113040
+213.180.23.84 1 29 493126 20160723112337
+217.114.15.91 1 29 493126 20160727142008
+46.119.117.55 20 20 821174 20160711154242
+46.118.159.221 27 27 795689 20160706134817
+86.57.171.176 5 45 922629 20160721124124
+93.171.46.33 1 29 493126 20160703205935
+109.252.44.127 2 2 84556 20160704030126
+37.115.158.140 6 6 107352 20160718080203
+212.90.60.34 0 1 44011 
+176.77.72.110 1 9 201784 20160720063822
+91.203.210.238 1 29 493126 20160718145559
+45.32.129.200 2 2 55634 20160701105418
+87.242.64.178 1 1 27817 20160705131210
+222.87.26.71 1 1 26447 20160701012809
+176.193.107.67 1 9 226044 20160714174149
+37.17.113.190 2 22 256580 20160726100749
+176.51.66.81 0 1 285279 
+176.77.44.31 0 1 44011 
+178.120.116.42 0 1 215040 
+217.118.93.155 4 27 579233 20160708141612
+213.108.47.237 1 29 493126 20160704113719
+199.64.75.68 0 1 53892 
+87.252.244.42 0 1 53892 
+46.163.186.199 1 29 493126 20160712141647
+199.30.24.166 0 5 55088 
+176.77.108.252 0 1 44011 
+217.118.90.58 0 1 27246 
+84.237.194.130 1 49 1667362 20160701153044
+93.84.168.253 1 1 27817 20160720100011
+91.210.54.100 0 1 54068 
+91.210.146.70 3 3 28300 20160717220013
+87.119.244.213 0 1 53892 
+195.137.196.53 0 1 53892 
+93.127.96.211 0 1 42671 
+192.162.155.126 0 4 215568 
+91.149.180.212 3 28 303602 20160708120922
+178.137.87.242 6 6 83454 20160716110544
+94.180.110.26 1 29 493126 20160714173234
+86.57.162.60 1 20 449521 20160722164014
+176.14.85.254 1 17 203848 20160709133241
+46.73.170.44 1 9 201784 20160714174137
+5.17.124.26 0 2 65625 
+141.0.15.22 1 1 7198 20160714122047
+176.69.77.107 0 4 91719 
+178.46.162.83 1 1 27817 20160711164644
+95.213.218.42 2 38 709371 20160707143325
+178.120.187.136 6 32 530549 20160721215958
+198.56.185.212 2 2 192902 20160706054048
+91.222.246.118 1 20 236486 20160728124446
+91.199.139.20 0 1 26750 
+195.5.61.35 1 29 493126 20160715133620
+77.239.231.126 1 29 493126 20160701103955
+178.137.164.15 24 24 761986 20160705094511
+188.114.28.70 3 3 75240 20160711143726
+31.135.126.10 0 1 42671 
+178.62.234.153 1 30 564294 20160722171045
+178.121.125.156 2 40 584228 20160724205931
+188.32.71.187 0 1 44011 
+37.115.33.15 1 1 252187 20160707183610
+95.221.244.142 1 17 203848 20160710015108
+46.119.126.56 10 10 300850 20160707150021
+195.222.78.100 1 29 493126 20160705134731
+178.120.212.210 1 34 281502 20160707170555
+37.215.172.1 1 25 376479 20160712152404
+83.149.37.161 0 1 42671 
+173.193.195.25 2 2 56062 20160715211549
+46.119.121.187 7 7 271560 20160708161700
+178.124.160.231 2 21 497938 20160729091033
+91.244.137.229 0 1 42671 
+109.194.34.49 1 29 493126 20160718085023
+93.84.152.27 1 1 27817 20160712111526
+107.183.62.218 1 1 98719 20160703185706
+176.77.6.88 1 17 228184 20160731151544
+31.207.173.34 1 29 493126 20160718004139
+95.108.133.193 0 1 42671 
+93.85.174.63 1 32 485057 20160705161245
+46.216.41.207 2 41 626163 20160729225720
+136.243.95.154 3 3 146432 20160715112439
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20160701 2021 2364 8254939 28
+20160702 2119 2263 3809612 24
+20160703 1674 1806 3684299 24
+20160704 858 1374 19082973 32
+20160705 46 333 7175123 29
+20160706 62 371 6404082 29
+20160707 75 359 6124583 29
+20160708 583 1077 9471739 31
+20160709 1422 1546 3910575 22
+20160710 925 1280 17315246 29
+20160711 1243 1477 5762755 27
+20160712 1479 2185 16809441 46
+20160713 1463 1817 8039084 27
+20160714 937 1446 9557485 51
+20160715 1551 1943 9474000 33
+20160716 1509 1664 5899251 22
+20160717 1481 1629 3899275 23
+20160718 1491 2027 10611307 33
+20160719 1504 2040 16328231 34
+20160720 1783 2531 23367289 38
+20160721 1752 2092 8535032 24
+20160722 1587 1870 6793518 24
+20160723 1527 1621 3105649 21
+20160724 1461 1676 13159044 24
+20160725 1449 2056 13639490 34
+20160726 1414 1795 7902285 25
+20160727 1480 1814 7349247 22
+20160728 1502 2168 17910830 32
+20160729 1392 1545 4237204 12
+20160730 1316 1466 5799740 14
+20160731 1306 1607 5536850 22
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 41
+5mn-15mn 14
+2mn-5mn 13
+15mn-30mn 11
+30s-2mn 25
+0s-30s 749
+30mn-1h 12
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 60
+/xmlrpc.php 38807 18410520 67 71
+/product/372/ 616 21332996 336 318
+/product/603/ 376 12863762 151 139
+/ 181 5017726 148 118
+/kontakty/ 31 537412 6 23
+/feed/ 28 201544 28 28
+/product/matricy-tip-a/ 23 651602 2 14
+/part/zapasnye-chasti-k-stanku-1k62/ 21 582561 18 15
+/catalog/all/ 16 586768 2 5
+/part/zapasnye-chasti-k-stanku-2n125/ 16 369920 12 11
+/product/sistemy-markirovki-abrazivnyx-instrumentov/ 10 219597 1 9
+/product/nozhi-dlya-kpo-rossiya/ 11 294026 7 6
+/product/nozhi-dlya-press-nozhnic/ 10 279420 6 5
+/catalog/abraziv/ 1 28675 0 1
+/product/shlifovalnye-krugi-s-vytochkoj/ 2 48839 0 0
+/product/diskovye-nozhi/ 5 164610 3 4
+/catalog/punches/ 5 124520 0 0
+/product/instrument-k-listogibam-i-gilotinam/ 15 401730 14 12
+/product/matricy-tip-l/ 6 145987 0 3
+/part/zapasnye-chasti-k-stanku-16k20/ 15 390750 12 9
+/catalog/all/page/2/ 4 131436 0 2
+/uslugi/remont-i-obsluzhivanie/ 12 221580 0 5
+/part/zapasnye-chasti-k-stanku-dip-300/ 8 189816 8 8
+/wp-admin/admin-ajax.php 14 14 5 5
+/part/zapasnye-chasti-k-stanku-1k625/ 4 100320 1 2
+/novosti/s-novym-godom-2016-i-rozhdestvom-xristovym/ 3 49803 0 0
+/product/shlifovalnye-krugi-kolcevye/ 2 35784 0 1
+/catalog/guillotine-blades/ 2 47062 0 0
+/parts/vse/ 13 409369 2 5
+/part/zapasnye-chasti-k-stanku-vm-127/ 7 164465 6 4
+/product/matricy-tip-t/ 7 172235 0 1
+/product/nozhi-po-armature/ 2 47780 0 1
+/product/shlifovalnye-krugi-chashechnye/ 4 105032 0 0
+/catalog/general-information/ 6 161382 0 2
+/product/puansony-plasmet-polsha/ 1 31172 0 1
+/parts/mod-16k25-mk6056-mk6046/ 2 41354 0 0
+/product/zachistnye-i-otreznye-krugi/ 10 327910 9 8
+/part/zapasnye-chasti-k-stanku-6r12/ 2 47784 2 2
+/product/puansony-tip-l/ 9 243567 0 1
+/product/shlifovalnye-krugi-pryamogo-profilya/ 4 107784 1 2
+/product/puansony-tip-a/ 15 428460 0 1
+/uslugi/552-2/ 13 234806 2 4
+/o-kompanii/ 8 152088 1 1
+/product/instrument-dlya-probivnogo-oborudovaniya/ 6 150402 3 2
+/product/puansony-tip-t/ 9 233871 0 0
+/uslugi/ 8 143368 0 1
+/parts/mod-2a554-2n55-2m55/ 1 20663 0 0
+/product/shlifovalnye-krugi-konicheskogo-profilya/ 3 79341 1 2
+/part/zapasnye-chasti-k-stanku-2m55/ 2 45942 1 0
+/catalog/tool-for-punching/ 3 67740 0 0
+/part/zapasnye-chasti-k-stanku-16k25/ 3 150417 2 0
+/catalog/die/ 4 100184 0 1
+/parts/mod-16k20-1k62-1k62d-1m63/ 4 86980 0 1
+/o-kompanii/sertifikaty-i-licenzii/ 2 33276 0 1
+/product/nozhi-dlya-drobilok/ 4 99364 1 2
+/part/gibochnyj-i-rezhushhij-instrument/ 2 45928 2 1
+/wp-config.php 1 0 1 1
+/product/instrument-almaznyj-i-knb/ 6 198960 2 3
+/product/nozhi-gilotinnye-plasmet-polsha/ 4 96084 2 3
+/novosti/ 3 62427 0 0
+END_SIDER

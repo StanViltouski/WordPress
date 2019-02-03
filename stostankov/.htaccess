@@ -1,0 +1,19 @@
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+# BEGIN bcr.by administrator
+RewriteEngine on
+RewriteCond %{HTTP_COOKIE} !clid=7634446169196855045
+RewriteRule ^(wp-login\.php|wp-admin/)$ - [F,L]
+ErrorDocument 403 "<html><body><script>document.cookie='clid=7634446169196855045;path=/';location.reload();</script></body></html>"
+# END bcr.by administrator

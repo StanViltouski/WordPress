@@ -1,0 +1,54 @@
+.jcarousel-skin-tango .jcarousel-direction-rtl {
+	direction: rtl;
+}
+
+.jcarousel-skin-tango .jcarousel-container-horizontal {
+    margin-left: auto;
+    margin-right: auto;
+    width: 930px;
+}
+
+.jcarousel-skin-tango .jcarousel-clip {
+    overflow: hidden;
+}
+
+.jcarousel-skin-tango .jcarousel-clip-horizontal {
+    width:  930px;
+    height: 275px;
+}
+
+.jcarousel-skin-tango .jcarousel-item {
+    width: 220px;
+    height: 275px;
+    overflow: hidden;
+}
+
+.jcarousel-skin-tango .jcarousel-item-horizontal {
+	margin-left: 0;
+    margin-right: 16px;
+}
+
+.jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-item-horizontal {
+	margin-left: 16px;
+    margin-right: 0;
+}
+
+.jcarousel-skin-tango .jcarousel-next-horizontal {
+    position: absolute;
+    top: 110px;
+    right: -30px;
+    width: 53px;
+    height: 53px;
+    cursor: pointer;
+    background: transparent url('images/promo_e3r.png') no-repeat 0 0;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal {
+    position: absolute;
+    top: 110px;
+    left: -30px;
+    width: 53px;
+    height: 53px;
+    cursor: pointer;
+    background: transparent url('images/promo_e3l.png') no-repeat 0 0;
+}

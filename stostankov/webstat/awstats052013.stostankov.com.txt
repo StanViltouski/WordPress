@@ -1,0 +1,382 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201305 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.stostankov.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1994                
+POS_TIME 2653                
+POS_VISITOR 7168                
+POS_DAY 8650                
+POS_DOMAIN 3316                
+POS_LOGIN 3548                
+POS_ROBOT 3703                
+POS_WORMS 4179                
+POS_EMAILSENDER 4310                
+POS_EMAILRECEIVER 4453                
+POS_SESSION 9081                
+POS_SIDER 9281                
+POS_FILETYPES 4588                
+POS_DOWNLOADS 4786                
+POS_OS 4856                
+POS_BROWSER 4993                
+POS_SCREENSIZE 5431                
+POS_UNKNOWNREFERER 5505                
+POS_UNKNOWNREFERERBROWSER 5767                
+POS_ORIGIN 5849                
+POS_SEREFERRALS 5987                
+POS_PAGEREFS 6131                
+POS_SEARCHWORDS 6279                
+POS_KEYWORDS 6431                
+POS_MISC 2316                
+POS_ERRORS 6490                
+POS_CLUSTER 3404                
+POS_SIDER_404 6627                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130601100048 1 0 6577835407691
+FirstTime 0
+LastTime 20130531162948
+LastUpdate 20130601100133 1 0 0 0 0
+TotalVisits 51                  
+TotalUnique 36                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 36                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 64 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 907 0 2 518
+1 6 21 251014 4 8 2511
+2 0 0 0 6 12 6690
+3 1 1 907 0 1 208
+4 1 1 2973 1 2 1115
+5 1 1 907 1 4 1396
+6 0 0 0 1 3 1188
+7 22 133 1111894 5 10 10518
+8 40 207 650656 3 8 3345
+9 24 79 853729 0 7 354
+10 10 95 1059772 2 11 22124
+11 26 162 1430544 5 13 3345
+12 10 44 123212 1 2 1115
+13 11 96 878514 2 14 11396
+14 51 584 4303738 7 49 68537
+15 4 51 140107 0 2 73
+16 1 28 108125 9 15 9411
+17 2 2 908 6 37 12338
+18 3 3 1814 0 3 0
+19 0 0 0 1 1 907
+20 12 73 746669 1 9 73
+21 0 0 0 0 1 73
+22 9 10 116304 1 11 208
+23 1 1 10372 3 3 11279
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 236 1593 11793066
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+googlebot 18 11322 20130531144149 6
+wordpress 12 0 20130531132608 0
+yandex 9 8163 20130524160659 0
+unknown 7 511 20130531141615 7
+crawl 4 13093 20130531075704 0
+no_user_agent 3 12186 20130529232032 0
+bot[\s_+:,\.\;\/\\-] 3 1053 20130530215507 2
+surveybot 2 1814 20130527022401 0
+mj12bot 2 1814 20130501085211 0
+netcraft 1 907 20130508234108 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+php 5 125115 0 0
+css 166 728217 0 0
+png 171 265516 0 0
+html 231 3026107 0 0
+jpg 132 3396990 0 0
+js 338 3265263 0 0
+gif 550 985858 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 15 0 1095
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 10
+blackberry 1
+winlong 3
+winxp 1128
+winnt 4
+linux 3
+win7 357
+macosx 88
+winme 2
+win2003 1
+Unknown 6
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 26
+msie6.0 3
+blackberry 1
+firefox20.0 104
+chrome1.0.154.53 4
+firefox21.0 721
+safari6.0 31
+firefox18.0 2
+firefox7.0.1 1
+firefox3.6.4 16
+msie5.5 2
+opera9.80 168
+firefox3.6.23 1
+chrome24.0.1312.71 109
+msie8.0 276
+chrome18.6.872.0 1
+mozilla 3
+chrome26.0.1410.64 40
+firefox14.0.1 1
+chrome27.0.1453.93 28
+msie7.0 4
+netscape10.07 1
+msie9.0 45
+firefox19.0 1
+firefox11.0 1
+safari 28
+firefox3.6.13 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Chrome/1.0.154.53_Safari/525.19 20130530145130
+Mozilla/4.0_(compatible;_http://search.thunderstone.com/texis/websearch/about.html) 20130503110945
+Mozilla/10.07 20130528153101
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 75 123
+From1 0 0
+From2 0 0
+From3 0 0
+From4 161 1470
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 2 2844
+302 2 0
+206 1 299
+500 9 2790
+301 7 0
+404 71 111926
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 5
+/apple-touch-icon-precomposed.png 3 -
+/robots.txt 62 -
+/wp-content/uploads/2013/05/4.jpg 2 http://stostankov.com/
+/wp-content/uploads/2013/05/1.jpg 2 http://stostankov.com/
+/wp-content/uploads/2013/05/2.jpg 2 http://stostankov.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 36
+93.125.84.242 113 1041 6608544 20130531162948
+152.72.130.32 36 207 1886781 20130531132735
+46.39.228.231 14 38 479177 20130529221414
+212.3.153.152 8 60 399671 20130528110145
+84.201.235.98 7 45 383796 20130529205942
+46.53.195.160 7 31 378228 20130531120955
+83.69.246.52 5 28 339768 20130531132804
+5.135.125.181 4 4 46678 20130530145810
+178.120.119.169 4 39 325505 20130528075205
+178.120.189.176 3 25 310062 20130528102928
+178.121.14.111 1 1 907 20130502153750
+206.183.1.74 1 1 907 20130503110945
+37.200.65.208 1 1 10372 20130529230658
+199.30.228.136 1 1 907 20130507130922
+80.86.88.174 1 1 907 20130517182351
+208.80.194.142 1 1 907 20130510120458
+208.80.194.145 1 1 907 20130510113647
+38.229.70.44 2 2 1814 20130503073655
+118.160.193.136 1 1 907 20130519001404
+208.80.194.159 1 1 907 20130510131212
+38.100.21.63 1 1 907 20130521011127
+184.106.154.125 1 1 907 20130526112159
+178.121.55.103 2 2 907 20130503180842
+54.215.116.114 1 1 907 20130527141727
+184.106.251.32 2 2 10372 20130530145130
+37.17.113.168 1 3 18195 20130528130559
+93.84.2.84 1 1 2973 20130530040121
+87.252.236.62 3 26 314325 20130528110140
+38.99.82.191 2 2 1814 20130503011718
+46.229.165.195 1 1 10372 20130528153101
+184.106.163.148 2 2 10372 20130530010006
+69.58.178.59 2 2 1814 20130521115226
+72.52.94.234 1 16 237921 20130531010241
+222.79.13.64 1 1 907 20130501052842
+59.61.135.48 1 1 907 20130516071422
+199.115.113.98 2 2 1814 20130526124625
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20130501 1 1 907 1
+20130502 1 1 907 1
+20130503 7 7 5442 5
+20130507 1 1 907 1
+20130510 4 4 3628 4
+20130516 1 1 907 1
+20130517 1 1 907 1
+20130518 1 1 907 1
+20130519 1 1 907 1
+20130521 3 3 2721 2
+20130522 1 1 907 1
+20130523 1 1 907 1
+20130526 2 2 1814 2
+20130527 4 4 2722 3
+20130528 104 585 3811942 9
+20130529 24 117 1280421 5
+20130530 10 25 308316 5
+20130531 69 837 6367897 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 2
+30s-2mn 5
+0s-30s 38
+2mn-5mn 2
+15mn-30mn 1
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 36
+/ 86 812980 49 35
+/catalog/all/ 38 694595 1 6
+/parts/vse/ 24 344816 0 2
+/uslugi/remont-i-obsluzhivanie/ 13 146172 0 2
+/kontakty/ 7 78318 0 1
+/product/h-rackham/ 6 120252 0 0
+/uslugi/ 6 74510 0 0
+/catalog/mnogoshpindelnyj-tokarnyj-avtomat/ 5 76767 0 1
+/o-kompanii/ 4 46162 0 0
+/o-kompanii/nashi-dostizheniya-i-preimushhestva/ 3 36944 0 0
+/catalog/tokarnoe/ 1 18169 0 0
+/wp-admin/load-styles.php 1 31440 0 0
+/product/the-point-of-using-lorem-ipsum/ 2 34638 0 0
+/part/the-point-of-using-lorem-ipsum/ 2 30423 0 0
+/wp-admin/ 1 21234 0 0
+/catalog/frezernoe/ 2 30518 0 1
+/part/neque-porro-quisquam-est/ 2 29156 0 0
+/catalog/kombinirovannoe-pozvolyayushhee-sochetat-gibku-rezku-i-valcovku-metallov/ 1 16324 0 0
+/parts/kombinirovannoe-pozvolyayushhee-sochetat-gibku-rezku-i-valcovku-metallov/ 1 12712 0 0
+/catalog/tokarno-revolvernyj-stanok/ 1 15620 0 0
+/catalog/strogalnoe-dolbyozhnoe/ 2 30278 0 1
+/catalog/lobotokarnyj-stanok/ 3 54952 0 0
+/catalog/tokarno-vintoreznyj-stanok/ 2 30496 0 0
+/catalog/tokarno-karuselnye-stanki/ 3 45739 0 1
+/catalog/sverlilnoe-i-rastochnoe/ 1 15511 0 0
+/wp-admin/load-scripts.php 2 87729 0 0
+/catalog/tokarno-frezernyj-obrabatyvayushhij-centr/ 1 15315 0 0
+/novosti/lorem-ipsum-is-simply-dummy-text/ 1 11353 0 0
+/o-kompanii/sertifikaty-i-licenzii/ 2 25924 0 0
+/catalog/raznoe/ 2 30116 0 0
+/wp-login.php 2 5946 1 1
+/parts/tokarnoe/ 1 12958 0 0
+/novosti/richard-mcclintock-a-latin-professor/ 1 12202 0 0
+/parts/sverlilnoe-i-rastochnoe/ 1 12485 0 0
+/novosti/ 3 42718 0 0
+/catalog/avtomat-prodolnogo-tocheniya/ 3 45750 0 0
+END_SIDER
