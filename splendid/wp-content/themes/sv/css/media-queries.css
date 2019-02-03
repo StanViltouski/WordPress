@@ -1,0 +1,51 @@
+@media screen and (min-width: 600px) and (max-width: 800px) {
+    
+.card {
+    width: 50%;
+    margin-bottom: 8%;
+}
+
+.posts p { 
+    float: right;
+    width: 65%;
+}
+
+.work_block {width: 50%;}
+
+} 
+
+@media screen and (max-width: 600px) {
+    
+.card {
+    width: 100%;
+    margin-bottom: 10%;
+}
+
+.posts p { 
+    padding: 0;
+    width: 100%;
+	text-align: center;
+}
+    
+.logo {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+.nav{
+    display: block;
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+
+li {  
+    float: none;
+    display: inline-block;
+}
+
+address, .map { width: 100%;}    
+
+.work_block {width: 100%;}
+}
