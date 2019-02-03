@@ -96,6 +96,8 @@ body {
 #header .b .b1, #header .b .b2 {
 	float: left;
 	margin-right: 30px;
+	text-align: center;
+	color: #333;
 }
 
 #header .b .b1 {
@@ -144,6 +146,8 @@ body {
 }
 
 #company_menu ul li.last {
+    padding-right: 0;
+	margin-right: 0;
 	background: none;
 }
 
@@ -1160,7 +1164,7 @@ h2.entry-title a:hover {
 
 #sidebar_i2 .w-container {
 	clear: both;
-	margin-bottom: 30px;
+	margin-bottom: 60px;
 }
 
 #sidebar_i2 .w-container h3.w-title, #sidebar_i2 .w-container p {
@@ -1203,11 +1207,13 @@ h2.entry-title a:hover {
 	overflow: hidden;
 }
 
-#sm_w_company .l, #sm_w_company .r {
+#sm_w_company .l {display:none;}
+
+#sm_w_company .l, #sm_w_company .r { 
 	width: 50%;
-	float:left;
 	padding: 0;
-	margin-bottom: 0;
+	margin: 0 auto;
+/*--float:left; при вкл. #sm_w_company .l--*/
 }
 
 
@@ -1215,6 +1221,7 @@ h2.entry-title a:hover {
 	float: left;
 	margin-right: 15px;
 }
+
 #sm_w_company a {
 	font-size: 18px;
 	line-height: 21px;
