@@ -6,7 +6,7 @@
 ## Используемые технологии:
 
 - HTML5/CSS3;
-- JavaScript(ES6)/Jquery;
+- JavaScript/Jquery;
 - PHP5.5/MySQL5.5;
 - WordPress;
 
