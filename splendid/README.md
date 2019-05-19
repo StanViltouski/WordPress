@@ -1,7 +1,7 @@
 <p align="center"><img src="https://pp.userapi.com/c850428/v850428680/124593/j8MdhVA3eB4.jpg"></p>
 
 
-<h2 align="center">Сайт фирмы СпецСтанкоСервис</h2>
+<h2 align="center">Сайт-визитка</h2>
 
 ## Используемые технологии:
 
