@@ -20,22 +20,22 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define('DB_NAME', 'wpress');
+define( 'DB_NAME', 'splendid' );
 
 /** Имя пользователя MySQL */
-define('DB_USER', 'root');
+define( 'DB_USER', 'root' );
 
 /** Пароль к базе данных MySQL */
-define('DB_PASSWORD', '');
+define( 'DB_PASSWORD', '' );
 
 /** Имя сервера MySQL */
-define('DB_HOST', 'localhost');
+define( 'DB_HOST', 'localhost' );
 
 /** Кодировка базы данных для создания таблиц. */
-define('DB_CHARSET', 'utf8');
+define( 'DB_CHARSET', 'utf8mb4' );
 
 /** Схема сопоставления. Не меняйте, если не уверены. */
-define('DB_COLLATE', '');
+define( 'DB_COLLATE', '' );
 
 /**#@+
  * Уникальные ключи и соли для аутентификации.
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'xpvR?[,p*Cq44a&Cii7(v*Y OVP$+c<)odLqS3h-_{r+DpyJt/{|<Hk9LNZr2sjQ');
-define('SECURE_AUTH_KEY',  'zmz}B:hj|[v%)SR:hp>+o,!OB +tUE9UVW-w<ho>UAb13n_Si,K5PT9bHi-Lu3PN');
-define('LOGGED_IN_KEY',    'U-X:^c[.RK:pl/h-?Pok3$d{*-G-OZeqxQCXn(c>FpdH~*Nt Q7zsGpaY*8rJ`V_');
-define('NONCE_KEY',        '9mH%hSx4P;J<>Z+f26LI-hoy+:f|UC+e7G|HEgG-#k KPuz[ZC[)jK|]j-SO!G[x');
-define('AUTH_SALT',        'n~}hI[xs1@?x-Sy}P|p8a)a]:I9FL,n-lHzu5%XDB8[WjgXH@R>#^/V~M<t4K+9!');
-define('SECURE_AUTH_SALT', ':_-rs.5]cH=TG>BS(3`M)xPG:$A5L^b5,`H1MdT_ZcV|d-#AK]MU:-q,PG[c[8Ft');
-define('LOGGED_IN_SALT',   '5rG5:s,U0[z}UKLM.{z ana1?dvQdfq3cb6jv97{d|G+Dp&VZDi4YXip3+O_8JC&');
-define('NONCE_SALT',       'D@c38ktD&}o|?iSR<,>rs[l8(2$xj7upR2kq=r2w#J.A1BMQUn7+e$|#KKTCOYX@');
+define( 'AUTH_KEY',         'PGG%EyTNaa1jM-i5q9!<?<2F]WaGx{CyIGIV$6jZZm=m{<@mA4Qc+TwDKpA(zd+S' );
+define( 'SECURE_AUTH_KEY',  'IRMnQ[4Vt?4}oi057!wQkBrYctz,A; zmblKmRmpa7FoD[+:|Qel`2I1_kS(%NOO' );
+define( 'LOGGED_IN_KEY',    'F!(=ui6;F] iFylu*3CDw&0Y{K]s`rM|Hd>3-px_-tUu6sTF }U<bzq9db(+_sA@' );
+define( 'NONCE_KEY',        'p97&!YnEcGJO/&,6,*fnVjuG[fe}y+n-roPi%tCgq||VvK.W3MMCP,t? w:Jh~;&' );
+define( 'AUTH_SALT',        '{T^T-8rMH;FT4.`3%cP$iu^3(fqm2`^lN8E3G&&X0)BYsJ3waXg@yaz-0p;|Bo(8' );
+define( 'SECURE_AUTH_SALT', '[0|8zm;lF}rW4<iX%@0W5G~AcV?h%|fNtGI_#i9kQ7JXNeGH_2o={3!QsQQj0-r|' );
+define( 'LOGGED_IN_SALT',   'f6K * k8!WFqkgl=SJ.SLkzWkD]jED|ez:q3O~.~K:s. yTnp..#)*`N;mtH wx[' );
+define( 'NONCE_SALT',       'hsVOpLzfk_ymwl?iCA(l[Z  g,`m~BoYl_id?*Aw..vaq0%Akb2H~^shQ9U. ac/' );
 
 /**#@-*/
 
@@ -63,7 +63,7 @@ define('NONCE_SALT',       'D@c38ktD&}o|?iSR<,>rs[l8(2$xj7upR2kq=r2w#J.A1BMQUn7+
  * Можно установить несколько сайтов в одну базу данных, если использовать
  * разные префиксы. Пожалуйста, указывайте только цифры, буквы и знак подчеркивания.
  */
-$table_prefix  = 'wp_';
+$table_prefix = 'wp_';
 
 /**
  * Для разработчиков: Режим отладки WordPress.
@@ -76,13 +76,14 @@ $table_prefix  = 'wp_';
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
-define('WP_DEBUG', false);
+define( 'WP_DEBUG', false );
 
 /* Это всё, дальше не редактируем. Успехов! */
 
 /** Абсолютный путь к директории WordPress. */
-if ( !defined('ABSPATH') )
-	define('ABSPATH', dirname(__FILE__) . '/');
+if ( ! defined( 'ABSPATH' ) ) {
+	define( 'ABSPATH', dirname( __FILE__ ) . '/' );
+}
 
 /** Инициализирует переменные WordPress и подключает файлы. */
-require_once(ABSPATH . 'wp-settings.php');
+require_once( ABSPATH . 'wp-settings.php' );
