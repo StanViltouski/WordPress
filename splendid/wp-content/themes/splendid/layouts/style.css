@@ -1,18 +1,12 @@
 body {
     margin: 0 auto;
-    font-family: Arial;
-    font-family: 'Baskerville Old Face';
+    font-family: 'Baskerville Old Face', Arial;
 }
 
 .container {
     margin: 0 auto;
-    padding-top: 40px;
-    max-width: 960px;
-}
-
-.logo {
-    float:left;
-    display: inline-block;
+    padding: 40px 20px 0 20px;
+    max-width: 1100px;
 }
 
 .top {
@@ -20,10 +14,13 @@ body {
     width: 100%;
 }
 
+.logo {float:left;}
+
 .nav {
     float: right;
     padding-top: 10px;
-    width: 19.5%;
+    min-width: 187px;
+ 
 }
 
 ul {
@@ -46,7 +43,6 @@ li {
     width: 100%; 
     margin-top: 40px;
 }
-
 
 .title img {
     display: block;
@@ -94,6 +90,8 @@ li {
 }
 
 .posts h2 {
+    margin: 0 0 3% 0;
+    padding: 6% 0 0 5%;
     color: #7e7467;
     line-height: 1.4;
     font-family: 'Baskerville Old Face';
@@ -101,8 +99,6 @@ li {
     font-weight: lighter;
     float: left;
     width: 60%;
-    margin: 0 0 3% 0;
-    padding: 6% 0 0 5%;
 }
 
 .posts p { 
@@ -240,7 +236,10 @@ address h3 {
     width: 120px;
     min-height: 40px;
     border: none;
+    cursor: pointer;
 }
+
+.wpcf7-submit:active {background-color: #836781;}
 
 .form_filter {display: none;}
 

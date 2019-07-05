@@ -24,7 +24,7 @@ get_header();?>
                         
                         <?php the_post_thumbnail(); ?>
                         <h3><?php the_title(); ?></h3>
-                        <p><?php the_content(); ?></p>
+                       <?php the_content(); ?>
 
                     </div>
                 <?php  endwhile; endif;  wp_reset_query(); ?>

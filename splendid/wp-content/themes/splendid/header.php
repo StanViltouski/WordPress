@@ -24,9 +24,7 @@
                 </a></div>
             
             <div class="nav">
-                <ul>
                     <?php wp_nav_menu(array('theme_location' => 'menu')); ?>
-                </ul>
             </div>
              
         </div>
@@ -38,8 +36,8 @@
                 <input type="text" name="s" id="search-input" placeholder="Keywords">
             </form>
 
-            
-        <form class="form_filter" action="<?php echo home_url('/deals'); ?>" method="POST">
+        
+        <!-- <form class="form_filter" action="<?php echo home_url('/deals'); ?>" method="POST">
         
                     <?php $current_location = get_terms('location'); ?>
                     
@@ -57,6 +55,7 @@
                    </select>
                    <button>quick search</button>
         </form>
+      -->
 
         </div>
    
