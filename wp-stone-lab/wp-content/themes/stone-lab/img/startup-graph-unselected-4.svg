@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="196px" height="553px" viewBox="0 0 196 553" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>startup graph unselected (4)</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-27" transform="translate(-574.000000, -5.000000)">
+            <g id="startup-graph-unselected-(4)" transform="translate(574.000000, 2.000000)">
+                <rect id="Rectangle-Copy-20" fill="#EAF8FF" x="0" y="29" width="185" height="527" rx="24"></rect>
+                <text id="Surging-Growth" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" letter-spacing="1" fill="#232323">
+                    <tspan x="12" y="16">SURGING GROWT</tspan>
+                    <tspan x="159.392" y="16">H</tspan>
+                </text>
+                <path d="M196.000079,45.7857143 L196.000079,57.5714286 C122.897221,57.5714286 64.0393643,77.2928571 16.0715071,117.867143 C11.7265071,121.544286 7.53865,125.331429 3.50007857,129.212857 L3.50007857,113.113571 C5.10293571,111.699286 6.72150714,110.292857 8.36365,108.902143 C58.5707929,66.4264286 119.950793,45.7857143 196.000079,45.7857143" id="Fill-7" fill="#0497F4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="204px" height="190px" viewBox="0 0 204 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>IT solutions icon 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="84.5425827%" y1="-3.58163471%" x2="6.93118268%" y2="85.478884%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.20662332%" y1="2.14292466%" x2="90.267142%" y2="79.7543246%" id="linearGradient-2">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-Dev-1440" transform="translate(-578.000000, -1664.000000)">
+            <g id="Group-2" transform="translate(151.000000, 1038.000000)">
+                <g id="Group-26" transform="translate(329.000000, 530.000000)">
+                    <g id="IT-solutions-icon-6" transform="translate(98.000000, 96.000000)">
+                        <g id="Group-47">
+                            <polygon id="Fill-1" fill="url(#linearGradient-1)" points="49 0 49 61.849 57.324 61.849 57.324 8.284 195.74 8.284 195.676 140.783 96.031 140.718 96.031 149 204 149 204 0"></polygon>
+                            <rect id="Rectangle" fill="#98E5FC" x="68.5830077" y="22.371861" width="33.8619474" height="55.1531771"></rect>
+                            <rect id="Rectangle-Copy-125" fill="#98E5FC" x="117.847162" y="21.9747899" width="64.2381062" height="34.2473832"></rect>
+                            <rect id="Rectangle-Copy-129" fill="#98E5FC" x="117.847162" y="110.243697" width="64.2381062" height="18.1213327"></rect>
+                            <rect id="Rectangle-Copy-125" fill="#98E5FC" transform="translate(150.001073, 68.049929) scale(1, -1) translate(-150.001073, -68.049929) " x="117.882019" y="65.5682343" width="64.2381062" height="4.96338886"></rect>
+                            <rect id="Rectangle-Copy-126" fill="#98E5FC" transform="translate(136.804872, 80.458401) scale(1, -1) translate(-136.804872, -80.458401) " x="117.882019" y="77.9767065" width="37.845706" height="4.96338886"></rect>
+                            <rect id="Rectangle-Copy-127" fill="#98E5FC" transform="translate(129.335325, 92.866873) scale(1, -1) translate(-129.335325, -92.866873) " x="117.882019" y="90.3851786" width="22.9066115" height="4.96338886"></rect>
+                            <g id="Group-18" transform="translate(0.000000, 78.000000)" fill="#EF1C3B">
+                                <path d="M0,10.88 L0,0 L17.61,0 L17.61,5 L5,5 L5,10.88 L0,10.88 Z M0,39.38 L0,20.88 L5,20.88 L5,39.38 L0,39.38 Z M56.1099,0.000100000001 L74.6099,0.000100000001 L74.6099,22.2101 L69.6099,22.2101 L69.6099,5.0001 L56.1099,5.0001 L56.1099,0.000100000001 Z M27.61,5 L27.61,0 L46.11,0 L46.11,5 L27.61,5 Z M50.89,65.49 L50.89,60.49 L69.39,60.49 L69.39,65.49 L50.89,65.49 Z M69.61,50.71 L69.61,32.21 L74.61,32.21 L74.61,50.71 L69.61,50.71 Z M5,49.38 L5,60.49 L12.39,60.49 L12.39,65.49 L0,65.49 L0,49.38 L5,49.38 Z M22.39,65.49 L22.39,60.49 L40.89,60.49 L40.89,65.49 L22.39,65.49 Z" id="Fill-13"></path>
+                            </g>
+                            <polygon id="Path-33" fill="url(#linearGradient-2)" points="49.9432314 110.218487 49.9432314 173.619964 64.8823259 161.533336 80.3193902 189.655006 89.7808167 183.752257 76.3356317 155.624771 97.2503639 155.624771"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

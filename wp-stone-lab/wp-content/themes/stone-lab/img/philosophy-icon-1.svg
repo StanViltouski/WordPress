@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="102px" viewBox="0 0 125 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>philosophy icon 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.20662332%" y1="2.14292466%" x2="90.267142%" y2="79.7543246%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Index---V1" transform="translate(-297.000000, -1774.000000)">
+            <g id="Group-16" transform="translate(200.000000, 1696.000000)">
+                <g id="philosophy-icon-1" transform="translate(100.000000, 79.000000)">
+                    <polygon id="Stroke-1" stroke="url(#linearGradient-1)" stroke-width="2" points="59.8268293 55.6386585 0.236585366 28.1545122 59.8268293 0.671585366 119.417073 28.1545122"></polygon>
+                    <polyline id="Stroke-3" stroke="#EF1C3B" stroke-width="4" points="119.417317 42.9076829 59.8270732 70.3918293 0.236829268 42.9076829"></polyline>
+                    <polyline id="Stroke-5" stroke="url(#linearGradient-1)" stroke-width="2" points="119.417317 57.6603659 59.8270732 85.1445122 0.236829268 57.6603659"></polyline>
+                    <polyline id="Stroke-7" stroke="url(#linearGradient-1)" stroke-width="2" points="119.417317 72.4131707 59.8270732 99.8973171 0.236829268 72.4131707"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

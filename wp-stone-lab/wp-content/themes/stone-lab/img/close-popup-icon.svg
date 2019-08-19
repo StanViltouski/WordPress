@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>close popup icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PopUp-Menu-320" transform="translate(-278.000000, -25.000000)" fill="#EF1C3B" fill-rule="nonzero">
+            <g id="burger-menu-popup-320">
+                <g id="close-popup-icon" transform="translate(278.000000, 25.000000)">
+                    <rect id="Rectangle" transform="translate(8.485281, 8.485281) rotate(-45.000000) translate(-8.485281, -8.485281) " x="-2.51471863" y="7.48528137" width="22" height="2" rx="1"></rect>
+                    <rect id="Rectangle" transform="translate(8.485281, 8.485281) rotate(45.000000) translate(-8.485281, -8.485281) " x="-2.51471863" y="7.48528137" width="22" height="2" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

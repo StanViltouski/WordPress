@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="7px" viewBox="0 0 11 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.20662332%" y1="2.14292466%" x2="90.267142%" y2="79.7543246%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apply-form-1-1440" transform="translate(-1199.000000, -680.000000)" fill="url(#linearGradient-1)">
+            <g id="chevron-down" transform="translate(1199.000000, 680.000000)">
+                <path d="M0.230128268,0.256279551 C0.536973816,-0.085426517 1.03445756,-0.085426517 1.34130311,0.256279551 L5.50000982,4.88759027 L9.65872439,0.256279551 C9.96554637,-0.085426517 10.4630615,-0.085426517 10.7698835,0.256279551 C11.0767055,0.597994369 11.0767055,1.1520111 10.7698835,1.49372592 L6.05558938,6.74373357 C5.74876741,7.08542214 5.25125223,7.08542214 4.94443026,6.74373357 L0.230128268,1.49372592 C-0.0767094227,1.1520111 -0.0767094227,0.597994369 0.230128268,0.256279551 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="173px" viewBox="0 0 200 173" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>IT solutions icon 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.20662332%" y1="2.14292466%" x2="90.267142%" y2="79.7543246%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-Dev-1440" transform="translate(-919.000000, -1685.000000)">
+            <g id="Group-2" transform="translate(151.000000, 1038.000000)">
+                <g id="IT-solutions-icon-7" transform="translate(768.000000, 647.000000)">
+                    <rect id="Rectangle-Copy-131" fill="#0497F4" x="97.6428571" y="112.143045" width="7" height="17"></rect>
+                    <rect id="Rectangle-Copy-130" fill="url(#linearGradient-1)" x="53.6428571" y="129.143045" width="100" height="43"></rect>
+                    <rect id="Rectangle" fill="#0497F4" x="97.6428571" y="41.1430449" width="7" height="17"></rect>
+                    <path d="M60.1100685,84.1430449 L101.642857,106.180851 L143.175646,84.1430449 L101.642857,62.1052387 L60.1100685,84.1430449 Z M158.110069,84.1430449 L101.642857,114.105239 L45.1756458,84.1430449 L101.642857,54.1808512 L158.110069,84.1430449 Z" id="Polygon" fill="#EF1C3B" fill-rule="nonzero"></path>
+                    <path d="M193.5,86.6430449 L168.464049,86.6430449 C166.531053,86.6430449 164.964049,85.0760416 164.964049,83.1430449 C164.964049,81.2100483 166.531053,79.6430449 168.464049,79.6430449 L197,79.6430449 C198.932997,79.6430449 200.5,81.2100483 200.5,83.1430449 L200.5,145.876443 C200.5,147.80944 198.932997,149.376443 197,149.376443 L151.642857,149.376443 C149.709861,149.376443 148.142857,147.80944 148.142857,145.876443 C148.142857,143.943447 149.709861,142.376443 151.642857,142.376443 L193.5,142.376443 L193.5,86.6430449 Z" id="Path-34" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                    <path d="M48.5,24.6430449 L21.576632,24.6430449 C19.6436354,24.6430449 18.076632,23.0760416 18.076632,21.1430449 C18.076632,19.2100483 19.6436354,17.6430449 21.576632,17.6430449 L52,17.6430449 C53.9329966,17.6430449 55.5,19.2100483 55.5,21.1430449 L55.5,83.8764434 C55.5,85.80944 53.9329966,87.3764434 52,87.3764434 L3.64285714,87.3764434 C1.70986052,87.3764434 0.142857143,85.80944 0.142857143,83.8764434 C0.142857143,81.9434468 1.70986052,80.3764434 3.64285714,80.3764434 L48.5,80.3764434 L48.5,24.6430449 Z" id="Path-34-Copy" fill="url(#linearGradient-1)" fill-rule="nonzero" transform="translate(27.821429, 52.509744) scale(-1, -1) translate(-27.821429, -52.509744) "></path>
+                    <path d="" id="Path-35" stroke="#979797"></path>
+                    <rect id="Rectangle" fill="#98E5FC" x="51.6428571" y="0.143044939" width="100" height="43"></rect>
+                    <polygon id="Triangle" fill="url(#linearGradient-1)" transform="translate(30.142857, 84.643045) rotate(90.000000) translate(-30.142857, -84.643045) " points="30.1428571 71.1430449 43.6428571 98.1430449 16.6428571 98.1430449"></polygon>
+                    <polygon id="Triangle-Copy-3" fill="url(#linearGradient-1)" transform="translate(171.142857, 83.643045) scale(-1, 1) rotate(90.000000) translate(-171.142857, -83.643045) " points="171.142857 70.1430449 184.642857 97.1430449 157.642857 97.1430449"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

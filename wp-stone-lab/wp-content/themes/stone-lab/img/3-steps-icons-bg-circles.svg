@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="380px" height="380px" viewBox="0 0 380 380" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>3 steps-icons bg circles</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.20662332%" y1="2.14292466%" x2="90.267142%" y2="79.7543246%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="190.5" cy="190.5" r="141.5"></circle>
+        <filter x="-17.7%" y="-14.1%" width="135.3%" height="135.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.00784313725   0 0 0 0 0.741176471   0 0 0 0 0.952941176  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sport-1440---Design" transform="translate(-994.000000, -1503.000000)" fill-rule="nonzero">
+            <g id="Group-13" transform="translate(994.000000, 1503.000000)">
+                <g id="3-steps-icons-bg-circles">
+                    <circle id="Oval-Copy-16" fill="url(#linearGradient-1)" opacity="0.0979585193" cx="190" cy="190" r="190"></circle>
+                    <circle id="Oval-Copy-17" fill="url(#linearGradient-1)" opacity="0.202357701" cx="190.5" cy="190.5" r="163.5"></circle>
+                    <g id="Oval-Copy-18">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

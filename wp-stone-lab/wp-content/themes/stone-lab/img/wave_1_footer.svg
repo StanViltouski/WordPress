@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2100px" height="500px" viewBox="0 0 2100 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>bg footer wave 1 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="72.3784617%" x2="100%" y2="72.3784617%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="49.2255238%"></stop>
+            <stop stop-color="#0497F4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0,0 L2100,0 C2100,203.586948 2100,370.253615 2100,500 C1864.52039,500 1876.20721,366.163114 1637.17074,366.163114 C1398.13428,366.163114 1285.36228,510.038498 830.108027,455.444926 C683.21976,437.830253 544.150238,408.111989 395.319317,427.978835 C246.488395,447.845681 158.479504,500 0,500 C0,306.342955 0,139.676289 0,0 Z" id="bg-footer-wave-1-copy" fill="url(#linearGradient-1)" fill-rule="nonzero" transform="translate(1050.000000, 250.000000) scale(-1, -1) translate(-1050.000000, -250.000000) "></path>
+    </g>
+</svg>

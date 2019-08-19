@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="195px" height="555px" viewBox="0 0 195 555" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>startup graph unselected (1)</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-27" transform="translate(0.000000, -3.000000)">
+            <g id="startup-graph-unselected-(1)">
+                <rect id="bg" fill="#EAF8FF" x="10" y="31" width="185" height="527" rx="24"></rect>
+                <text id="Ideation" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" letter-spacing="1" fill="#232323">
+                    <tspan x="61" y="16">IDEATIO</tspan>
+                    <tspan x="131.664" y="16">N</tspan>
+                </text>
+                <path d="M192.5,521.296507 L192.5,533.270793 C155.626429,526.592221 136.219286,510.147221 117.307143,494.11865 C91.6771429,472.39365 67.4614286,451.87865 0,451.87865 L0,440.092936 C71.8457143,440.092936 98.8821429,463.004364 125.022857,485.161507 C142.976429,500.372936 160.183571,514.96365 192.5,521.296507" id="Fill-1" fill="#0497F4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

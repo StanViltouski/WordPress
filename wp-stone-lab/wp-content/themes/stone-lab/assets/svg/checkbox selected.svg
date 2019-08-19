@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>checkbox selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.20662332%" y1="2.14292466%" x2="90.267142%" y2="79.7543246%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apply-form-1-1440" transform="translate(-634.000000, -1833.000000)" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(634.000000, 1833.000000)">
+                <g id="checkbox-selected">
+                    <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="17" height="17" rx="3.3"></rect>
+                    <polygon id="Stroke-6" fill="#FFFFFF" points="13.3606453 4.36657628 14.6393547 5.63342372 7.63106295 12.7073363 3.36064533 8.3969334 4.63935467 7.13008596 7.63106295 10.1498066"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

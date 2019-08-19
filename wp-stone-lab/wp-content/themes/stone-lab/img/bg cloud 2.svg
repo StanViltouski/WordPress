@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="914px" viewBox="0 0 1600 914" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>bg cloud 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="52.2877449%" y1="89.5562816%" x2="52.2877449%" y2="18.4795212%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#C1F3FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.198683966">
+        <g id="Index---V1" transform="translate(0.000000, -3196.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M-21.9154825,3385.37122 C-69.3197474,3146.89056 59.4588838,3016.07031 364.420411,2992.91047 C821.862702,2958.17072 961.307095,3166.32336 1150.99812,3166.32336 C1308.06602,3166.32336 1490.96786,3100.22896 1673.05928,3166.32336 C1794.45356,3210.3863 1881.54607,3283.40225 1934.33682,3385.37122 C1971.22106,3745.56291 1971.22106,3952.39449 1934.33682,4005.86596 C1879.01046,4086.07317 1635.91351,3985.25376 1515.04084,3993.22903 C1352.92432,4003.92561 1274.36251,4127.14168 1061.91091,4107.98024 C868.021545,4090.49297 717.788611,3878.57916 538.491455,3909.26069 C374.84557,3937.26395 72.0806762,4125.59978 -109.007996,3956.31128 C-229.733778,3843.45228 -200.70294,3653.13893 -21.9154825,3385.37122 Z" id="bg-cloud-2" transform="translate(890.000000, 3549.500000) scale(-1, 1) translate(-890.000000, -3549.500000) "></path>
+        </g>
+    </g>
+</svg>

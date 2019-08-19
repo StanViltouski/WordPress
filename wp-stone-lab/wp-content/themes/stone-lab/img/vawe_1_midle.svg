@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2438px" height="661px" viewBox="0 0 2438 661" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="25.9224644%" x2="100%" y2="23.7805206%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="52.0434429%"></stop>
+            <stop stop-color="#0497F4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M1219,0 C1319.95117,9.793593e-12 1450.75391,25.375371 1592.91406,53 C1735.07422,80.624629 1853.71463,82.9420276 2057.16406,53 C2199.98757,31.9804022 2316.72656,0 2438,0 C2438,209.36642 2438,387.425893 2438,603.774183 C2219.69968,556.622133 1901.08305,669.251676 1647.61328,660 C1394.14351,650.748324 1326.0625,625 1219,603.774183 C1000.69968,556.622133 682.083049,669.251676 428.613281,660 C175.143513,650.748324 107.0625,625 0,603.774183 C0,352.066 7.44349027e-13,186.646484 0,0 C100.951172,9.793593e-12 231.753906,25.375371 373.914063,53 C516.074219,80.624629 634.714625,82.9420276 838.164063,53 C980.987568,31.9804022 1097.72656,0 1219,0 Z" id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

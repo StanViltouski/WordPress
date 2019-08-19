@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="914px" viewBox="0 0 1600 914" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="52.2877449%" y1="89.5562816%" x2="52.2877449%" y2="18.4795212%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#C1F3FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.099999994">
+        <g id="Showcase-1440-(Web/Tablet-project)" transform="translate(0.000000, -2093.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M65.0845175,2282.37122 C17.6802526,2043.89056 146.458884,1913.07031 451.420411,1889.91047 C908.862702,1855.17072 1048.30709,2063.32336 1237.99812,2063.32336 C1395.06602,2063.32336 1577.96786,1997.22896 1760.05928,2063.32336 C1881.45356,2107.3863 1968.54607,2180.40225 2021.33682,2282.37122 C2058.22106,2642.56291 2058.22106,2849.39449 2021.33682,2902.86596 C1966.01046,2983.07317 1722.91351,2882.25376 1602.04084,2890.22903 C1439.92432,2900.92561 1361.36251,3024.14168 1148.91091,3004.98024 C955.021545,2987.49297 770.297156,2878.76911 591,2909.45064 C427.354114,2937.4539 159.080676,3022.59978 -22.0079961,2853.31128 C-142.733778,2740.45228 -113.70294,2550.13893 65.0845175,2282.37122 Z" id="Rectangle-Copy-5" transform="translate(977.000000, 2446.500000) scale(-1, 1) translate(-977.000000, -2446.500000) "></path>
+        </g>
+    </g>
+</svg>

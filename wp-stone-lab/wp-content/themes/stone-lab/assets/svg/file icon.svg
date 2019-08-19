@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="25px" viewBox="0 0 21 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>file icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.20662332%" y1="2.14292466%" x2="90.267142%" y2="79.7543246%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apply-form-1-1440" transform="translate(-369.000000, -1651.000000)">
+            <g id="file-icon" transform="translate(370.000000, 1652.000000)">
+                <path d="M13.6080741,-8.8817842e-16 L19,5.33599738 L19,21.7017389 C19,22.4187581 18.4120556,23 17.6867682,23 L1.31323176,23 C0.587944381,23 0,22.4187581 0,21.7017389 L0,1.29826106 C0,0.58124188 0.587944381,0 1.31323176,0 L13.6080741,0 Z" id="Combined-Shape" stroke="#0497F4" fill="#FFFFFF"></path>
+                <polygon id="Fill-14" fill="url(#linearGradient-1)" points="5 8 14 8 14 7 5 7"></polygon>
+                <polygon id="Fill-16" fill="url(#linearGradient-1)" points="5 11.3333333 14 11.3333333 14 10.3333333 5 10.3333333"></polygon>
+                <polygon id="Fill-17" fill="url(#linearGradient-1)" points="5 14.6666667 14 14.6666667 14 13.6666667 5 13.6666667"></polygon>
+                <polygon id="Fill-18" fill="url(#linearGradient-1)" points="5 18 14 18 14 17 5 17"></polygon>
+                <path d="M14,0 L14,3.68 C14,4.40901587 14.5909841,5 15.32,5 L19,5 L14,0 Z" id="Path-24" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

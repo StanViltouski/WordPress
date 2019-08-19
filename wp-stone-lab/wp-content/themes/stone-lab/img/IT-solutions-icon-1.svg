@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="218px" height="219px" viewBox="0 0 218 219" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>IT solutions icon 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="90.267142%" y1="79.7543246%" x2="1.20662332%" y2="2.14292466%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.20662332%" y1="2.14292466%" x2="90.267142%" y2="79.7543246%" id="linearGradient-2">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-Dev-1440" transform="translate(-231.000000, -1208.000000)">
+            <g id="Group-2" transform="translate(150.000000, 936.000000)">
+                <g id="Oval-Copy-23" transform="translate(0.000000, 195.000000)">
+                    <g id="IT-solutions-icon-1" transform="translate(75.000000, 71.000000)">
+                        <rect id="Rectangle" fill="#FFFFFF" transform="translate(115.258405, 115.500000) rotate(45.000000) translate(-115.258405, -115.500000) " x="33.7584053" y="34" width="163" height="163" rx="16"></rect>
+                        <path d="M49.7584053,45 C46.9969816,45 44.7584053,47.2385763 44.7584053,50 L44.7584053,181 C44.7584053,183.761424 46.9969816,186 49.7584053,186 L180.758405,186 C183.519829,186 185.758405,183.761424 185.758405,181 L185.758405,50 C185.758405,47.2385763 183.519829,45 180.758405,45 L49.7584053,45 Z M49.7584053,34 L180.758405,34 C189.594961,34 196.758405,41.163444 196.758405,50 L196.758405,181 C196.758405,189.836556 189.594961,197 180.758405,197 L49.7584053,197 C40.9218493,197 33.7584053,189.836556 33.7584053,181 L33.7584053,50 C33.7584053,41.163444 40.9218493,34 49.7584053,34 Z" id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" transform="translate(115.258405, 115.500000) rotate(45.000000) translate(-115.258405, -115.500000) "></path>
+                        <rect id="Rectangle" fill="#EF1C3B" x="74" y="74.2415947" width="90" height="27" rx="13.5"></rect>
+                        <rect id="Rectangle-Copy-122" fill="#98E5FC" x="114" y="114.241595" width="58" height="27" rx="13.5"></rect>
+                        <rect id="Rectangle-Copy-123" fill="#98E5FC" x="99" y="154.241595" width="113" height="27" rx="13.5"></rect>
+                        <rect id="Rectangle-Copy-124" fill="#98E5FC" x="33" y="34.2415947" width="83" height="27" rx="13.5"></rect>
+                        <path d="M74.9166816,139.764029 C69.1418478,136.686736 64.7828634,130.942372 61.8397284,122.530934 C58.7368282,113.662889 59.5589597,104.233109 64.3061229,94.2415947 C64.4356633,100.014552 65.7877803,106.411821 68.3624739,113.433402 C70.7610922,119.974799 74.8704762,125.077216 80.6906257,128.740654 L84.0947741,122.241595 L95,144.148921 L71,147.241595 L74.9166816,139.764029 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

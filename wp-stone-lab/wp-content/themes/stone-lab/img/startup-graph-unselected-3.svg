@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="193px" height="555px" viewBox="0 0 193 555" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>startup graph unselected (3)</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-27" transform="translate(-385.000000, -3.000000)">
+            <g id="startup-graph-unselected-(3)" transform="translate(385.000000, 0.000000)">
+                <rect id="Rectangle-Copy-30" fill="#EAF8FF" x="1" y="31" width="185" height="527" rx="24"></rect>
+                <text id="Series-A" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" letter-spacing="1" fill="#232323">
+                    <tspan x="57" y="16">SERIES </tspan>
+                    <tspan x="118.08" y="16">A</tspan>
+                </text>
+                <path d="M192.5,115.113571 L192.5,131.212857 C156.42,165.847143 132.102143,207.937857 111.925,245.306429 C70.0228571,322.887857 33.7935714,386.279286 0,433.265 L0,412.64 C30.6742857,367.799286 63.7292857,309.585714 101.451429,239.743571 C123.569286,198.8 150.574286,152.285714 192.5,115.113571" id="Fill-5" fill="#0497F4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

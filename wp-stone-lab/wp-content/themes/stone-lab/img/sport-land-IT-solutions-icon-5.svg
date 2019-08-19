@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="185px" height="172px" viewBox="0 0 185 172" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>sport land-IT solutions-icon 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.20662332%" y1="2.14292466%" x2="90.267142%" y2="79.7543246%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sport-1440---Design" transform="translate(-274.000000, -4095.000000)">
+            <g id="Group-24" transform="translate(150.000000, 3967.000000)">
+                <g id="sport-land-IT-solutions-icon-5" transform="translate(124.000000, 128.000000)">
+                    <g id="Group-36-Copy-2" transform="translate(22.093023, 0.000000)">
+                        <polygon id="Path-12" fill="#98E5FC" points="0 29.8032855 81.5566931 58.0384226 162.790698 29.8032855 81.3953488 0"></polygon>
+                        <polygon id="Path-13" fill="url(#linearGradient-1)" points="1.42398609e-12 29.4742164 4.62678991e-12 135.617954 81.3953488 163.953488 81.3953488 57.4191077"></polygon>
+                        <polygon id="Path-13-Copy" fill="#0497F4" transform="translate(122.093023, 96.713852) scale(-1, 1) translate(-122.093023, -96.713852) " points="81.3953488 29.4742164 81.3953488 135.617954 162.790698 163.953488 162.790698 57.4191077"></polygon>
+                    </g>
+                    <g id="Group-36" transform="translate(0.000000, 66.279070)">
+                        <polygon id="Path-12" fill="#98E5FC" points="0 24.4812703 58.2547808 47.6744186 116.27907 24.4812703 58.1395349 0"></polygon>
+                        <polygon id="Path-13" fill="url(#linearGradient-1)" points="1.01713292e-12 23.255814 3.30484993e-12 110.445313 58.1395349 133.72093 58.1395349 46.2105461"></polygon>
+                        <polygon id="Path-13-Copy" fill="#0497F4" transform="translate(87.209302, 78.488372) scale(-1, 1) translate(-87.209302, -78.488372) " points="58.1395349 23.255814 58.1395349 110.445313 116.27907 133.72093 116.27907 46.2105461"></polygon>
+                    </g>
+                    <g id="Group-36-Copy" transform="translate(116.000000, 103.000000)">
+                        <polygon id="Path-12" fill="#98E5FC" points="0 16.7257403 38.0753247 32.5714286 76 16.7257403 38 0"></polygon>
+                        <polygon id="Path-13" fill="url(#linearGradient-1)" points="6.64798078e-13 16.6987578 2.16004992e-12 74.2167494 38 89.5714286 38 31.8417522"></polygon>
+                        <polygon id="Path-13-Copy" fill="#0497F4" transform="translate(57.000000, 53.135093) scale(-1, 1) translate(-57.000000, -53.135093) " points="38 16.6987578 38 74.2167494 76 89.5714286 76 31.8417522"></polygon>
+                    </g>
+                    <polygon id="Path-14" fill="#EF1C3B" points="86.0465116 100.976563 86.0465116 138.595226 92.2181595 131.334598 98.5679788 133.104901 98.5679788 96.5116279"></polygon>
+                    <polygon id="Path-14-Copy-2" fill="#EF1C3B" points="159.302326 38.1858648 159.302326 75.8045285 165.473973 68.5438999 171.823793 70.3142033 171.823793 33.7209302"></polygon>
+                    <polygon id="Path-14-Copy" fill="#EF1C3B" points="174.302326 125.8257 174.302326 144.734761 177.608361 141.085198 181.009839 141.975043 181.009839 123.581395"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

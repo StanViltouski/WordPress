@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="432px" height="432px" viewBox="0 0 432 432" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>sport land visual-bg circles</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="216.5" cy="216.5" r="87.5"></circle>
+        <filter x="-28.6%" y="-22.9%" width="157.1%" height="157.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.00784313725   0 0 0 0 0.741176471   0 0 0 0 0.952941176  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sport-1440---Design" transform="translate(-901.000000, -125.000000)" fill-rule="nonzero">
+            <g id="sport-land-visual" transform="translate(869.000000, 125.000000)">
+                <g id="sport-land-visual-bg-circles" transform="translate(32.000000, 0.000000)">
+                    <circle id="Oval-Copy-4" fill="#06A1F5" cx="216" cy="216" r="175"></circle>
+                    <circle id="Oval-Copy-4" fill="#06A1F5" opacity="0.25" cx="216" cy="216" r="216"></circle>
+                    <circle id="Oval-Copy-5" fill="#28CEFE" cx="216.25" cy="216.25" r="131.25"></circle>
+                    <g id="Oval-Copy-15">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

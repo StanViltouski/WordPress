@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>radio button</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apply-form-1-1440" transform="translate(-598.000000, -1440.000000)" fill="#EF1C3B" fill-rule="nonzero">
+            <path d="M608,1460 C602.477153,1460 598,1455.52285 598,1450 C598,1444.47715 602.477153,1440 608,1440 C613.522847,1440 618,1444.47715 618,1450 C618,1455.52285 613.522847,1460 608,1460 Z M608,1458 C612.418278,1458 616,1454.41828 616,1450 C616,1445.58172 612.418278,1442 608,1442 C603.581722,1442 600,1445.58172 600,1450 C600,1454.41828 603.581722,1458 608,1458 Z" id="radio-button"></path>
+        </g>
+    </g>
+</svg>

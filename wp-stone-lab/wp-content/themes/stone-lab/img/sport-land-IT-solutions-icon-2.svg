@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="173px" height="164px" viewBox="0 0 173 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>sport land-IT solutions-icon 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.20662332%" y1="2.14292466%" x2="90.267142%" y2="79.7543246%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sport-1440---Design" transform="translate(-615.000000, -3768.000000)">
+            <g id="Group-18" transform="translate(479.000000, 3632.000000)">
+                <g id="sport-land-IT-solutions-icon-2" transform="translate(136.000000, 136.000000)">
+                    <rect id="Rectangle" fill="url(#linearGradient-1)" x="35" y="53" width="33" height="148"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#98E5FC" x="70" y="36" width="33" height="148"></rect>
+                    <polygon id="Rectangle-Copy-25" fill="#0497F4" opacity="0.149999991" points="43 39 68 39 68 53 35 53"></polygon>
+                    <polygon id="Rectangle-Copy-26" fill="#0497F4" opacity="0.149999991" points="113 59 138 59 138 73 105 73"></polygon>
+                    <polygon id="Rectangle-Copy-27" fill="#98E5FC" opacity="0.149999991" points="148 0 173 0 173 14 140 14"></polygon>
+                    <polygon id="Rectangle-Copy-28" fill="#98E5FC" opacity="0.149999991" points="78 22 103 22 103 36 70 36"></polygon>
+                    <polygon id="Rectangle-Copy-29" fill="#EF1C3B" opacity="0.149999991" points="8 96 33 96 33 110 1.42108547e-14 110"></polygon>
+                    <rect id="Rectangle-Copy-21" fill="#EF1C3B" x="0" y="110" width="33" height="55"></rect>
+                    <rect id="Rectangle-Copy-18" fill="url(#linearGradient-1)" x="105" y="73" width="33" height="108"></rect>
+                    <rect id="Rectangle-Copy-20" fill="#98E5FC" x="140" y="14" width="33" height="160"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

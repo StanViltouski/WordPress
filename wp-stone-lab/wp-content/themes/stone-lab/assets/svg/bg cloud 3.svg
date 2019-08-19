@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1449px" height="1406px" viewBox="0 0 1449 1406" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>bg cloud 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="31.6735607%" y1="20.7659601%" x2="57.4300204%" y2="91.6293147%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#C1F3FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.198683966">
+        <g id="Sport-1440---Design" transform="translate(0.000000, -842.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M-859.438289,1321.55206 C-914.979107,1004.14515 -764.096681,830.029353 -406.791011,799.204663 C129.167494,752.967627 292.546372,1030.00933 514.79631,1030.00933 C698.823615,1030.00933 913.119064,942.040687 1126.46498,1030.00933 C1268.69559,1088.65509 1370.73681,1185.836 1432.58866,1321.55206 C1475.80378,1800.95081 1475.80378,2076.23424 1432.58866,2147.40233 C1367.76599,2254.15448 1082.94344,2119.96843 941.323972,2130.58316 C751.381477,2144.81982 659.335182,2308.81479 410.418004,2283.31179 C183.249124,2260.03703 7.22993954,1977.9894 -202.842101,2018.82511 C-394.576459,2056.09617 -749.308461,2306.76259 -961.479518,2081.44731 C-1102.92689,1931.23712 -1068.91315,1677.9387 -859.438289,1321.55206 Z" id="bg-cloud-3" transform="translate(209.000000, 1540.000000) scale(-1, 1) rotate(-180.000000) translate(-209.000000, -1540.000000) "></path>
+        </g>
+    </g>
+</svg>

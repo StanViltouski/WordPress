@@ -1,0 +1,356 @@
+
+/* Showcase*/
+
+.container_showcase {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#showcases-header .navbar-brand {
+  top: -12px;
+}
+
+#showcases-header {
+  padding-bottom: 0px ;
+  background-color: #0498f4;
+}
+
+#showcases-header .navbar-container {margin-bottom: 0px;}
+
+.showcases_head {
+  width: 100%;
+  height: 645px;
+  background: linear-gradient(to bottom, #0498f4 5%, transparent 95%), url(/assets/img/bg_showcase.jpg); 
+  background-position:  0% 70%;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+}
+
+.wrapper4-effect {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #0498f4;
+  width: 100%;
+  height: 645px;
+  opacity: 0;
+}
+
+.showcasesHead_title, .showcasesHead_bottons {
+  position: relative;
+  z-index: 1;
+}
+
+.showcases_head .pre_title {
+  padding-top: calc(215px - 1rem););
+  font-size: 20px;
+  letter-spacing: 1.25px;
+  text-transform: uppercase;
+}
+
+.showcases_head .main_title {
+  margin-bottom: 0;
+  font-size: 96px;
+  font-weight: bold;
+}
+
+.showcasesHead_bottons {padding-top: 154px;}
+
+.botton_share {
+  display: block;
+  border-radius: 30px;
+  background-color: #ef1c3b;
+  padding: 16.5px 34px;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.botton_share:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.botton_share img{
+  margin-right: 15px;
+  width: 20px;
+}
+
+.botton_back {
+  display: block;
+  padding: 14px 17px;
+  font-family: LucidaGrande;
+  font-size: 18px;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 30px;
+  border: solid 2px #ffffff;
+}
+
+.botton_back:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.botton_back img {
+  margin-right: 10px;
+  width: 16px;
+}
+
+.project_info {
+  position: relative;
+  top: -60px;
+  margin-bottom: -60px;
+  padding-bottom: 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px 0 #00000026;
+  background-image: linear-gradient(99deg, #0497f4, #0bcbf9);
+  z-index: 1;
+}
+
+.projectInfo_block {padding: 0 30px;}
+
+.projectInfo_title {
+  padding-top: 25px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.projectInfo_text {
+  margin-bottom: 0;
+  font-size: 18px;
+  line-height: 1.44;
+}
+
+.main_text {
+  margin-bottom: 142px;
+  padding-top: 50px;
+}
+
+.mainText_title {
+  margin-bottom: 20px;
+  font-size: 26px;
+  line-height: 1.23;
+  color: #0497f4;
+}
+
+.mainText_content {
+  margin-bottom: 25px;
+  font-size: 20px;
+  line-height: 1.6;
+  color: #232323;
+}
+
+.screens-object {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 0 30px 20px 0 rgba(5, 162, 245, 0.1);
+  background-color: transparent;
+  max-width: 950px;
+}
+
+.screens-text {
+  margin-bottom: 35px;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #ef1c3b;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.screens_description {
+  padding-top: 20px;
+  font-size: 16px;
+  font-style: italic;
+  line-height: 1.56;
+  text-align: center;
+  color: #232323;
+}
+
+.learn_more {padding-top: 135px;}
+
+.learnMore_title {
+  font-size: 48px;
+  font-weight: bold;
+  letter-spacing: 0.51px;
+  text-align: center;
+  color: #0497f4;
+}
+
+.learnMore_description {
+  margin: 0 auto;
+  max-width: 983px;
+  font-size: 20px;
+  line-height: 1.6;
+  text-align: center;
+  color: #232323;
+}
+
+.botton_download a{
+  padding: 19px 33px 16px;
+  font-size: 16px;
+}
+
+.botton_download img{margin-right: 7px;}
+
+#feedback {background: url("/img/bg_showcase.svg") repeat-x 0 100%/cover;}
+
+.feedback {margin: 90px auto 120px;}
+
+.feedback_head {
+  font-size: 14px;
+  font-weight: bold;
+  color: #ed1a3a;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+#showcase_slider-mob {display: none;}
+
+.screen_item {
+  display: flex;
+  flex-direction: column;
+}
+
+.screen-image-wrapper-mobile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* Showcase Media*/
+
+
+@media (max-width: 1439px) {
+
+  .container_showcase {padding: 0;}
+
+  .showcases_head {height: 449px;}
+
+  .showcases_head .pre_title {
+    padding-top: calc(96px - 2rem););
+    font-size: 16px;
+  }
+
+  .showcases_head .main_title {font-size: 72px;}
+
+  .showcasesHead_bottons {padding-top: 130px;}
+
+  .botton_back {
+    padding: 14px 0px;
+    min-width: 204px;
+    font-size: 18px;
+  }
+
+  .botton_share {
+    padding: 14px 0px;
+    min-width: 150px;
+    font-size: 18px;
+  }
+
+  .projectInfo_text, .projectInfo_title{font-size: 18px;}
+
+  .mainText_title {font-size: 28px;}
+
+  .mainText_content, .learnMore_description {font-size: 20px;}
+
+  .main_text {margin-bottom: 118px;}
+
+  .screens-object{max-width: 820px;}
+
+  .learn_more {padding-top: 70px;}
+
+  .learnMore_title{font-size: 26px;}
+
+}
+
+
+
+@media (max-width: 1023px) {
+
+  .showcases_head {height: 366px;}
+
+  .showcases_head .pre_title {padding-top: calc(69px - 0.5rem););}
+
+  .showcases_head .main_title {font-size: 48px;}
+
+  .showcasesHead_bottons {padding-top: 97px;}
+
+  .botton_back {
+    padding: 9px 0px;
+    min-width: 165px;
+    font-size: 16px;
+  }
+
+  .botton_share {
+    padding: 9px 0px;
+    min-width: 121px;
+    font-size: 16px;
+  }
+
+  .projectInfo_text, .projectInfo_title{font-size: 16px;}
+
+  .mainText_title {font-size: 22px;}
+
+  .mainText_content, .learnMore_description {font-size: 18px;}
+
+  .main_text {margin-bottom: 60px;}
+
+  .screens-object{max-width: 609px;}
+
+}
+
+
+@media (max-width: 767px) {
+
+  .showcases_head {
+    height: 490px;
+    background-position:  70% 70%;
+  }
+
+  .showcases_head .pre_title {
+    padding-top: calc(136px - 1rem););
+    font-size: 14px;
+  }
+
+  .showcases_head .main_title {font-size: 32px;}
+
+  .showcasesHead_bottons {padding-top: 204px;}
+
+  .botton_back, .botton_share {
+    padding: 5px 0px;
+    min-width: 146px;
+    font-size: 14px;
+  }
+
+  .projectInfo_block {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .mainText_title{font-size: 22px;}
+
+  .mainText_content, .learnMore_description {font-size: 16px;}
+
+  .main_text {margin-bottom: 50px;}
+
+  #showcase_slider-desk{display:none;}
+
+  #showcase_slider-mob {display: block;}
+
+}

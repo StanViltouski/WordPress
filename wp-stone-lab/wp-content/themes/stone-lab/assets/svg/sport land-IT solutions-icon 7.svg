@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="226px" height="166px" viewBox="0 0 226 166" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>sport land-IT solutions-icon 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.20662332%" y1="2.14292466%" x2="90.267142%" y2="79.7543246%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sport-1440---Design" transform="translate(-892.000000, -4100.000000)">
+            <g id="sport-land-IT-solutions-icon-7" transform="translate(892.000000, 4100.000000)">
+                <path d="M110.309653,0 L9.63899614,0 C4.31544402,0 0,4.31544402 0,9.63899614 L0,96.9247104 C0,102.248263 4.31544402,106.563707 9.63899614,106.563707 L34.0312741,106.563707 L31.4714286,139.054826 C31.2440154,141.940927 34.5227799,143.750579 36.8436293,142.020077 L84.3969112,106.563707 L110.309653,106.563707 C115.633205,106.563707 119.948649,102.248263 119.948649,96.9247104 L119.948649,9.63899614 C119.948649,4.31544402 115.633205,0 110.309653,0" id="Fill-1" fill="url(#linearGradient-1)" opacity="0.25"></path>
+                <path d="M110.309653,10 L9.63899614,10 C4.31544402,10 0,14.315444 0,19.6389961 L0,106.92471 C0,112.248263 4.31544402,116.563707 9.63899614,116.563707 L34.0312741,116.563707 L31.4714286,149.054826 C31.2440154,151.940927 34.5227799,153.750579 36.8436293,152.020077 L84.3969112,116.563707 L110.309653,116.563707 C115.633205,116.563707 119.948649,112.248263 119.948649,106.92471 L119.948649,19.6389961 C119.948649,14.315444 115.633205,10 110.309653,10" id="Fill-1" fill="url(#linearGradient-1)"></path>
+                <rect id="Rectangle" fill="#EF1C3B" x="22" y="40" width="76" height="4" rx="2"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="22" y="56" width="76" height="4" rx="2"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="22" y="72" width="76" height="4" rx="2"></rect>
+                <path d="M216.438301,48.2897683 C221.761853,48.2897683 226.077297,52.6052124 226.077297,57.9287645 L226.077297,135.214479 C226.077297,140.538031 221.761853,144.853475 216.438301,144.853475 L192.046023,144.853475 L194.605869,177.344595 C194.833282,180.230695 191.554517,182.040347 189.233668,180.309846 L141.680386,144.853475 L115.767645,144.853475 C110.444093,144.853475 106.128649,140.538031 106.128649,135.214479 L106.128649,57.9287645 C106.128649,52.6052124 110.444093,48.2897683 115.767645,48.2897683 L216.438301,48.2897683 Z" id="Fill-4" fill="#98E5FC"></path>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="130" y="79" width="76" height="4" rx="2"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="130" y="95" width="76" height="4" rx="2"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="130" y="110" width="76" height="4" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

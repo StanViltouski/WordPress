@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="575px" viewBox="0 0 1600 575" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>bg footer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.20662332%" y1="2.14292466%" x2="98.3392273%" y2="95.4933133%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.20662332%" y1="2.14292466%" x2="90.267142%" y2="79.7543246%" id="linearGradient-2">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Index---V1" transform="translate(0.000000, -4307.000000)" fill-rule="nonzero">
+            <g id="bg-footer" transform="translate(0.000000, 4307.000000)">
+                <path d="M0,21.870101 L1600,21.870101 L1600,697.870101 C1411.90706,656.744308 1284.90706,639.077641 1219,644.870101 C1086.40645,656.523523 1051.97564,742.626561 878.213506,721.751072 C719.633255,702.699509 606.645424,543.444016 460,576.870101 C370.7704,597.20893 217.437066,618.875596 0,641.870101 L0,21.870101 Z" id="Rectangle-Copy-2" fill-opacity="0.3" fill="url(#linearGradient-1)" transform="translate(800.000000, 373.435050) scale(-1, -1) translate(-800.000000, -373.435050) "></path>
+                <path d="M1,0 L1601,0 L1601,691.59375 C1430.90722,744.342355 1304.24055,776.811105 1221,789 C1038.96568,815.655244 932.567692,757.614365 752.655351,736 C449.337692,699.559928 198.785908,733.559928 1,838 L1,0 Z" id="Rectangle-Copy" fill-opacity="0.5" fill="url(#linearGradient-1)" transform="translate(801.000000, 419.000000) scale(-1, -1) translate(-801.000000, -419.000000) "></path>
+                <path d="M0,64 L1600,64 L1600,754.523458 C1436.65099,837.281224 1203.31766,860.440072 900,824 C753.201353,806.363858 539.788003,745.666413 403.216679,773 C306.14036,792.428999 171.7348,839.762332 0,915 L0,64 Z" id="Rectangle" fill="url(#linearGradient-2)" transform="translate(800.000000, 489.500000) scale(-1, -1) translate(-800.000000, -489.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="203px" height="179px" viewBox="0 0 203 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>sport land-IT solutions-icon 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.20662332%" y1="2.14292466%" x2="90.267142%" y2="79.7543246%" id="linearGradient-1">
+            <stop stop-color="#0497F4" offset="0%"></stop>
+            <stop stop-color="#0BCBF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sport-1440---Design" transform="translate(-916.000000, -3753.000000)">
+            <g id="Group-20" transform="translate(810.000000, 3632.000000)">
+                <g id="sport-land-IT-solutions-icon-3" transform="translate(106.000000, 131.000000)">
+                    <polygon id="Rectangle" fill="#98E5FC" points="124.662138 104.894159 135.876618 93.6796795 162.791369 120.594431 151.576889 131.80891"></polygon>
+                    <rect id="Rectangle" fill="#EF1C3B" transform="translate(38.623106, 77.123106) rotate(45.000000) translate(-38.623106, -77.123106) " x="37.623106" y="37.123106" width="2" height="80"></rect>
+                    <circle id="Oval" stroke="url(#linearGradient-1)" stroke-width="20" cx="90.5" cy="61.5" r="51.5"></circle>
+                    <circle id="Oval" stroke="url(#linearGradient-1)" stroke-width="20" opacity="0.25" cx="90.5" cy="51.5" r="51.5"></circle>
+                    <path d="M144.279224,113.85749 L144.839948,113.296766 C150.878695,107.258019 160.669437,107.258019 166.708184,113.296766 L200.912346,147.500929 C206.951093,153.539675 206.951093,163.330417 200.912346,169.369164 L200.351622,169.929888 C194.312876,175.968634 184.522134,175.968634 178.483387,169.929888 L144.279224,135.725725 C138.240478,129.686979 138.240478,119.896236 144.279224,113.85749 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                    <rect id="Rectangle-Copy-48" fill="#EF1C3B" transform="translate(143.623106, 43.123106) rotate(45.000000) translate(-143.623106, -43.123106) " x="142.623106" y="3.12310601" width="2" height="80"></rect>
+                    <rect id="Rectangle-Copy-49" fill="#EF1C3B" transform="translate(91.874369, 60.374369) scale(-1, 1) rotate(45.000000) translate(-91.874369, -60.374369) " x="90.8743687" y="45.3743687" width="2" height="30"></rect>
+                    <circle id="Oval" fill="#EF1C3B" cx="5" cy="111" r="5"></circle>
+                    <circle id="Oval-Copy-45" fill="#EF1C3B" cx="74" cy="44" r="5"></circle>
+                    <circle id="Oval-Copy-46" fill="#EF1C3B" cx="109" cy="77" r="5"></circle>
+                    <circle id="Oval-Copy-47" fill="#EF1C3B" cx="179" cy="9" r="5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
